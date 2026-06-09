@@ -204,9 +204,7 @@ Used for:
 │   └── pythonScript_curr.py
 │
 ├── Data/
-│   ├── IPLPointsData.xlsx
-│   ├── service_account.json
-│   └── teams.txt
+│   └── IPLPointsData.xlsx
 │
 ├── Logs/
 │   └── ipl_updater_*.log
