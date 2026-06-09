@@ -1,19 +1,195 @@
-# IPL Fantasy Points Updater
+# IPL Fantasy League Management System
 
-A Python automation script that synchronizes IPL fantasy cricket player statistics from Excel files into Google Sheets. The tool updates player points, dot-ball statistics, team performance metrics, daily points gained, and Top-12 team scores while maintaining detailed execution logs.
+An end-to-end IPL Fantasy League platform built using **UiPath**, **Python**, **Excel**, and **Google Sheets** to manage player auctions, scrape live IPL statistics, calculate fantasy points, track team performance, and maintain league analytics.
+
+---
+
+## Project Overview
+
+This project was created to automate and manage a private IPL Fantasy League.
+
+The complete workflow consists of:
+
+1. **IPL Auction System**
+
+   * Conduct player auctions.
+   * Allocate players to team owners.
+   * Manage team budgets and squad formation.
+
+2. **UiPath Data Scraping**
+
+   * Collect player statistics from official IPL websites.
+   * Extract Fantasy IPL points.
+   * Export data into Excel.
+
+3. **Python Automation**
+
+   * Process player statistics.
+   * Calculate points and dot-ball bonuses.
+   * Update Google Sheets dashboards.
+
+4. **League Analytics**
+
+   * Track team standings.
+   * Monitor daily points gained.
+   * Maintain historical performance records.
+   * Generate Top 12 team statistics.
+
+---
+
+## Related Repository
+
+### IPL Auction System
+
+Repository used to conduct the fantasy league auction and allocate players to teams:
+
+**GitHub Repository**
+
+`https://github.com/himanshusankhala05/IPL_Auction2025`
+
+### Auction Features
+
+* Player bidding system
+* Team purse management
+* Player allocation
+* Squad creation
+* Auction history tracking
+* Team roster generation
+
+The output of the auction system becomes the foundation for this fantasy league management platform.
+
+---
+
+## Data Sources
+
+### Official IPL Statistics
+
+https://www.iplt20.com/stats/2026
+
+Used for:
+
+* Batting statistics
+* Bowling statistics
+* Match performance data
+* Dot-ball statistics
+* Player performance metrics
+
+### Fantasy IPL
+
+https://fantasy.iplt20.com
+
+Used for:
+
+* Fantasy points
+* Player rankings
+* Fantasy scoring information
+
+---
+
+## System Architecture
+
+```text
+                 IPL Auction System
+                          │
+                          ▼
+                Team & Player Allocation
+                          │
+                          ▼
+      IPL Website + Fantasy IPL Website
+                          │
+                          ▼
+                  UiPath Automation
+                          │
+                          ▼
+                    Excel Dataset
+                          │
+                          ▼
+                  Python Processing
+                          │
+                          ▼
+                 Google Sheets Database
+                          │
+                          ▼
+          League Dashboard & Analytics
+```
+
+---
 
 ## Features
 
-* 📊 Read player statistics from Excel spreadsheets
-* ☁️ Authenticate and connect to Google Sheets using a Service Account
-* 🔄 Update player fantasy points automatically
-* 🎯 Update bowler dot-ball statistics
-* 📈 Track daily points gained for each team
-* 🏆 Update Top 12 team scores
-* 📝 Detailed logging with timestamped log files
-* ⚡ Batch updates for improved Google Sheets performance
-* 🔍 Detect unchanged records and skip unnecessary updates
-* 🚨 Track and report players that were not updated
+### Auction Management
+
+* Fantasy player auction
+* Team creation
+* Budget management
+* Squad tracking
+
+### Data Scraping (UiPath)
+
+* Automated IPL statistics extraction
+* Fantasy IPL points scraping
+* Structured Excel exports
+* Reduced manual effort
+
+### Fantasy Points Processing
+
+* Player points updates
+* Dot-ball bonus tracking
+* Previous points comparison
+* Daily score calculations
+* Automatic data synchronization
+
+### Team Analytics
+
+* Team rankings
+* Daily points gained
+* Historical score tracking
+* Top 12 player/team analysis
+* League performance monitoring
+
+### Dashboard Management
+
+* Google Sheets integration
+* Automated updates
+* Historical reporting
+* League summaries
+
+---
+
+## Technology Stack
+
+### UiPath
+
+Used for:
+
+* Web scraping
+* Browser automation
+* Data extraction
+
+### Python
+
+Libraries:
+
+```bash
+pip install pandas gspread google-auth openpyxl
+```
+
+Main Packages:
+
+* pandas
+* gspread
+* google-auth
+* openpyxl
+* logging
+* datetime
+
+### Google Sheets API
+
+Used for:
+
+* Data storage
+* League dashboard
+* Analytics reporting
 
 ---
 
@@ -21,242 +197,173 @@ A Python automation script that synchronizes IPL fantasy cricket player statisti
 
 ```text
 .
-├── IPLPointsData.xlsx          # Source player data
-├── service_account.json        # Google API credentials
-├── teams.txt                   # Team information
-├── logs/
-│   └── ipl_updater_*.log       # Generated log files
-└── pythonScript_curr.py        # Main script
+├── UiPath/
+│   └── IPL.xaml
+│
+├── Python/
+│   └── pythonScript_curr.py
+│
+├── Data/
+│   ├── IPLPointsData.xlsx
+│   ├── service_account.json
+│   └── teams.txt
+│
+├── Logs/
+│   └── ipl_updater_*.log
+│
+└── README.md
 ```
 
 ---
 
-## Prerequisites
+## Google Sheets Structure
 
-### Python Version
+### Points Sheet
 
-* Python 3.10+
+Stores:
 
-### Required Packages
+* Player Name
+* Fantasy Points
+* Dot Balls
+* Previous Points
+* Updated Points
 
-Install dependencies:
+### Home Sheet
 
-```bash
-pip install pandas gspread google-auth openpyxl
-```
+Displays:
 
----
+* Team rankings
+* Daily points gained
+* Top 12 scores
+* League summary
 
-## Google Sheets Setup
+### Data Sheet
 
-### 1. Create a Google Cloud Project
+Stores historical records:
 
-1. Open Google Cloud Console.
-2. Create a new project.
-3. Enable:
-
-   * Google Sheets API
-   * Google Drive API
-
-### 2. Create a Service Account
-
-1. Navigate to **IAM & Admin → Service Accounts**
-2. Create a Service Account
-3. Generate a JSON Key
-4. Download the JSON file
-5. Save it as:
-
-```text
-service_account.json
-```
-
-### 3. Share the Spreadsheet
-
-Share your Google Spreadsheet with the Service Account email address and grant **Editor** access.
-
----
-
-## Configuration
-
-Update the following constants in the script:
-
-```python
-EXCEL_FILE = "path_to_IPLPointsData.xlsx"
-SERVICE_ACCOUNT = "path_to_service_account.json"
-SHEET_NAME = "YourGoogleSpreadsheetName"
-LOG_FILE_PATH = "path_to_log_file.log"
-```
-
----
-
-## Google Sheet Requirements
-
-The script expects the following worksheets:
-
-### Points
-
-Stores player data and fantasy points.
-
-### Home
-
-Stores team summary data:
-
-| Range | Purpose             |
-| ----- | ------------------- |
-| F2:G6 | Top 12 Team Points  |
-| K2:L6 | Daily Points Gained |
-
-### Data
-
-Stores historical tracking data:
-
-* Daily team points
-* Top 12 team scores
-* Date-wise analytics
-
----
-
-## Excel Requirements
-
-### Sheet1
-
-Contains player information.
-
-Example:
-
-| Name     | Team Name | Points | Dot Balls |
-| -------- | --------- | ------ | --------- |
-| Player A | Team X    | 120    | 10        |
-
-### Sheet2
-
-Contains player fantasy points and dot-ball data used during updates.
+* Daily points
+* Team performance trends
+* Historical rankings
+* Top 12 statistics
 
 ---
 
 ## Workflow
 
-### Step 1
+### Step 1: Auction
 
-Load player data from Excel.
+Players are allocated to fantasy teams through the IPL Auction System.
 
-### Step 2
+### Step 2: Data Collection
 
-Authenticate with Google Sheets.
+UiPath scrapes:
 
-### Step 3
+* IPL statistics
+* Fantasy IPL points
 
-Open required worksheets:
+and exports them into Excel.
 
-* Points
-* Home
-* Data
+### Step 3: Data Processing
 
-### Step 4
+Python:
 
-(Optional) Update previous player points.
+* Reads Excel files
+* Validates data
+* Calculates updates
+* Identifies changes
 
-### Step 5
+### Step 4: Dashboard Update
 
-Process player points and dot-ball updates.
+Google Sheets is automatically updated with:
 
-### Step 6
+* Player points
+* Dot-ball bonuses
+* Team standings
+* Daily performance metrics
 
-Update:
+### Step 5: Analytics
 
-* Daily points gained
-* Top 12 team points
+League dashboards provide:
 
-### Step 7
-
-Generate execution logs.
+* Team rankings
+* Daily gains
+* Historical trends
+* Top 12 performance tracking
 
 ---
 
-## Running the Script
+## Running the Project
+
+### Install Dependencies
+
+```bash
+pip install pandas gspread google-auth openpyxl
+```
+
+### Configure
+
+Update:
+
+```python
+EXCEL_FILE
+SERVICE_ACCOUNT
+SHEET_NAME
+LOG_FILE_PATH
+```
+
+inside the Python script.
+
+### Execute
+
+Run UiPath workflow to collect data.
+
+Then execute:
 
 ```bash
 python pythonScript_curr.py
-```
-
-The script provides interactive prompts:
-
-```text
-Do you want to update previous points? (y/n)
-
-Do you want to update past top 12 points? (y/n)
-
-Do you want to process player points and dot balls updates? (y/n)
-
-Do you want to update points gained today and top 12 points? (y/n)
 ```
 
 ---
 
 ## Logging
 
-Logs are automatically generated with timestamps.
+The system generates timestamped log files.
 
 Example:
 
 ```text
-ipl_updater_20250415_213012.log
+ipl_updater_20260509_214530.log
 ```
 
-Log entries include:
+Logs include:
 
 * Authentication status
 * Sheet updates
-* Player processing
-* Errors and exceptions
-* Summary statistics
+* Player updates
+* Errors and warnings
+* Execution summaries
 
 ---
 
-## Error Handling
+## Future Enhancements
 
-The script handles:
-
-* Missing worksheets
-* Authentication failures
-* Invalid data formats
-* Missing players
-* Missing date columns
-* Google Sheets API issues
-
-All exceptions are logged for troubleshooting.
-
----
-
-## Team Mapping
-
-| Full Team Name    | Abbreviation |
-| ----------------- | ------------ |
-| Himanshu Warriors | HW           |
-| Mehul Challengers | MC           |
-| Onkar Legends     | OL           |
-| Abhishek Strikers | AS           |
-| Pranav Astra      | PA           |
-
----
-
-## Future Improvements
-
-* Configuration via `.env` file
-* Automatic date management
-* Retry mechanism for Google API limits
-* Command-line arguments
-* Email notifications
-* Automated scheduling using Task Scheduler or Cron
+* Fully automated scheduling
+* Live score integration
+* Telegram/WhatsApp notifications
+* Power BI dashboards
+* Web-based fantasy portal
+* Automated league reports
 
 ---
 
 ## Author
 
-Developed for IPL Fantasy League data management and Google Sheets automation.
+Himanshu Sankhala
+
+Passionate about automation, data analytics, fantasy sports management, and process optimization using UiPath and Python.
 
 ---
 
 ## License
 
-This project is available for personal and educational use.
+This project is intended for educational and personal use.
