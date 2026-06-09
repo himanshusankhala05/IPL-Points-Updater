@@ -1,0 +1,19 @@
+[2026-04-17 23:37:12] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-17 23:38:03] INFO     - Teams loaded: T1='GT', T2='KKR'
+[2026-04-17 23:38:03] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-17 23:38:03] INFO     - Google Sheets authentication successful.
+[2026-04-17 23:38:09] INFO     - Worksheets opened: ['GT', 'KKR', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-17 23:38:13] INFO     - Updated current date '17 Apr' in cell A1 of all sheets.
+[2026-04-17 23:38:14] ERROR    - Fatal error — process aborted: '<' not supported between instances of 'NoneType' and 'int'
+Traceback (most recent call last):
+  File "C:\Users\himan\Documents\UiPath\CrickInfo\Data\pythonScript2.py", line 609, in main
+    update_past_top12_points(ws["Home"], ws["Data"], logger)
+  File "C:\Users\himan\Documents\UiPath\CrickInfo\Data\pythonScript2.py", line 580, in update_past_top12_points
+    Data_sheet.update_cell(switcher.get(team_name), 2, pts_str)
+  File "d:\CODE\PYTHON\Learning\GENAI\venv\Lib\site-packages\gspread\worksheet.py", line 758, in update_cell
+    range_name = absolute_range_name(self.title, rowcol_to_a1(row, col))
+                                                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\CODE\PYTHON\Learning\GENAI\venv\Lib\site-packages\gspread\utils.py", line 361, in rowcol_to_a1
+    if row < 1 or col < 1:
+       ^^^^^^^
+TypeError: '<' not supported between instances of 'NoneType' and 'int'

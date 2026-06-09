@@ -1,0 +1,10 @@
+[2026-04-15 22:59:43] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-15 22:59:43] ERROR    - Fatal error — process aborted: input expected at most 1 argument, got 2
+Traceback (most recent call last):
+  File "C:\Users\himan\Documents\UiPath\CrickInfo\Data\pythonScript2.py", line 564, in main
+    t1, t2, t3, t4 = read_teams(TEAMS_FILE, logger)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\himan\Documents\UiPath\CrickInfo\Data\pythonScript2.py", line 73, in read_teams
+    t1 = input("Enter Team 1 name: ", logger)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: input expected at most 1 argument, got 2

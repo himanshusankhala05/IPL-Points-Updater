@@ -1,0 +1,342 @@
+[2026-04-15 23:04:25] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-15 23:04:34] INFO     - Teams loaded: T1='RCB', T2='LSG'
+[2026-04-15 23:04:35] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-15 23:04:35] INFO     - Google Sheets authentication successful.
+[2026-04-15 23:04:40] INFO     - Worksheets opened: ['RCB', 'LSG', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-15 23:04:43] INFO     - Updated current date '15 Apr' in cell A1 of all sheets.
+[2026-04-15 23:04:43] DEBUG    - ===============================================================
+[2026-04-15 23:04:43] INFO     - Processing players for team: RCB
+[2026-04-15 23:04:43] DEBUG    - ===============================================================
+[2026-04-15 23:04:43] INFO     - Processing count for RCB = 1
+[2026-04-15 23:04:43] INFO     - Processing player of RCB : 'Rajat Patidar' | 380 points | team: RCB
+[2026-04-15 23:04:43] DEBUG    - Match found for Rajat Patidar in RCB at row 10
+[2026-04-15 23:04:44] INFO     - No update needed for Rajat Patidar in RCB as points are unchanged.
+[2026-04-15 23:04:44] DEBUG    - ===============================================================
+[2026-04-15 23:04:44] INFO     - Processing count for RCB = 2
+[2026-04-15 23:04:44] INFO     - Processing player of RCB : 'Virat Kohli' | 357 points | team: RCB
+[2026-04-15 23:04:44] DEBUG    - Match found for Virat Kohli in RCB at row 13
+[2026-04-15 23:04:44] INFO     - No update needed for Virat Kohli in RCB as points are unchanged.
+[2026-04-15 23:04:44] DEBUG    - ===============================================================
+[2026-04-15 23:04:44] INFO     - Processing count for RCB = 3
+[2026-04-15 23:04:44] INFO     - Processing player of RCB : 'Devdutt Padikkal' | 263 points | team: RCB
+[2026-04-15 23:04:44] DEBUG    - Match found for Devdutt Padikkal in RCB at row 12
+[2026-04-15 23:04:45] INFO     - No update needed for Devdutt Padikkal in RCB as points are unchanged.
+[2026-04-15 23:04:45] DEBUG    - ===============================================================
+[2026-04-15 23:04:45] INFO     - Processing count for RCB = 4
+[2026-04-15 23:04:45] INFO     - Processing player of RCB : 'Phil Salt' | 251 points | team: RCB
+[2026-04-15 23:04:45] DEBUG    - Match found for Phil Salt in RCB at row 6
+[2026-04-15 23:04:45] INFO     - No update needed for Phil Salt in RCB as points are unchanged.
+[2026-04-15 23:04:45] DEBUG    - ===============================================================
+[2026-04-15 23:04:45] INFO     - Processing count for RCB = 5
+[2026-04-15 23:04:45] INFO     - Processing player of RCB : 'Tim David' | 238 points | team: RCB
+[2026-04-15 23:04:45] DEBUG    - Match found for Tim David in Extra at row 8
+[2026-04-15 23:04:45] INFO     - No update needed for Tim David in Extra as points are unchanged.
+[2026-04-15 23:04:45] DEBUG    - ===============================================================
+[2026-04-15 23:04:45] INFO     - Processing count for RCB = 6
+[2026-04-15 23:04:45] INFO     - Processing player of RCB : 'Bhuvneshwar Kumar' | 229 points | team: RCB
+[2026-04-15 23:04:45] DEBUG    - Match found for Bhuvneshwar Kumar in RCB at row 7
+[2026-04-15 23:04:46] INFO     - No update needed for Bhuvneshwar Kumar in RCB as points are unchanged.
+[2026-04-15 23:04:46] DEBUG    - ===============================================================
+[2026-04-15 23:04:46] INFO     - Processing count for RCB = 7
+[2026-04-15 23:04:46] INFO     - Processing player of RCB : 'Krunal Pandya' | 202 points | team: RCB
+[2026-04-15 23:04:46] DEBUG    - Match found for Krunal Pandya in RCB at row 9
+[2026-04-15 23:04:46] INFO     - No update needed for Krunal Pandya in RCB as points are unchanged.
+[2026-04-15 23:04:46] DEBUG    - ===============================================================
+[2026-04-15 23:04:46] INFO     - Processing count for RCB = 8
+[2026-04-15 23:04:46] INFO     - Processing player of RCB : 'Rasikh Salam' | 167 points | team: RCB
+[2026-04-15 23:04:46] DEBUG    - Match found for Rasikh Salam in Extra at row 25
+[2026-04-15 23:04:47] INFO     - No update needed for Rasikh Salam in Extra as points are unchanged.
+[2026-04-15 23:04:47] DEBUG    - ===============================================================
+[2026-04-15 23:04:47] INFO     - Processing count for RCB = 9
+[2026-04-15 23:04:47] INFO     - Processing player of RCB : 'Romario Shepherd' | 152 points | team: RCB
+[2026-04-15 23:04:47] DEBUG    - Match found for Romario Shepherd in RCB at row 11
+[2026-04-15 23:04:47] INFO     - No update needed for Romario Shepherd in RCB as points are unchanged.
+[2026-04-15 23:04:47] DEBUG    - ===============================================================
+[2026-04-15 23:04:47] INFO     - Processing count for RCB = 10
+[2026-04-15 23:04:47] INFO     - Processing player of RCB : 'Suyash Sharma' | 116 points | team: RCB
+[2026-04-15 23:04:47] DEBUG    - Match found for Suyash Sharma in Extra at row 12
+[2026-04-15 23:04:47] INFO     - No update needed for Suyash Sharma in Extra as points are unchanged.
+[2026-04-15 23:04:47] DEBUG    - ===============================================================
+[2026-04-15 23:04:47] INFO     - Processing count for RCB = 11
+[2026-04-15 23:04:47] INFO     - Processing player of RCB : 'Jitesh Sharma' | 113 points | team: RCB
+[2026-04-15 23:04:47] DEBUG    - Match found for Jitesh Sharma in RCB at row 5
+[2026-04-15 23:04:48] INFO     - No update needed for Jitesh Sharma in RCB as points are unchanged.
+[2026-04-15 23:04:48] DEBUG    - ===============================================================
+[2026-04-15 23:04:48] INFO     - Processing count for RCB = 12
+[2026-04-15 23:04:48] INFO     - Processing player of RCB : 'Josh Hazlewood' | 99 points | team: RCB
+[2026-04-15 23:04:48] DEBUG    - Match found for Josh Hazlewood in RCB at row 8
+[2026-04-15 23:04:48] INFO     - No update needed for Josh Hazlewood in RCB as points are unchanged.
+[2026-04-15 23:04:48] DEBUG    - ===============================================================
+[2026-04-15 23:04:48] INFO     - Processing count for RCB = 13
+[2026-04-15 23:04:48] INFO     - Processing player of RCB : 'Venkatesh Iyer' | 44 points | team: RCB
+[2026-04-15 23:04:48] DEBUG    - Match found for Venkatesh Iyer in Extra at row 26
+[2026-04-15 23:04:49] INFO     - No update needed for Venkatesh Iyer in Extra as points are unchanged.
+[2026-04-15 23:04:49] DEBUG    - ===============================================================
+[2026-04-15 23:04:49] INFO     - Processing count for RCB = 14
+[2026-04-15 23:04:49] INFO     - 
+Skipping Yash Dayal as points is zero.
+[2026-04-15 23:04:49] DEBUG    - ===============================================================
+[2026-04-15 23:04:49] INFO     - Processing players for team: LSG
+[2026-04-15 23:04:49] DEBUG    - ===============================================================
+[2026-04-15 23:04:49] INFO     - Processing count for LSG = 1
+[2026-04-15 23:04:49] INFO     - Processing player of LSG : 'Aiden Markram' | 206 points | team: LSG
+[2026-04-15 23:04:49] DEBUG    - Match found for Aiden Markram in LSG at row 12
+[2026-04-15 23:04:49] INFO     - No update needed for Aiden Markram in LSG as points are unchanged.
+[2026-04-15 23:04:49] DEBUG    - ===============================================================
+[2026-04-15 23:04:49] INFO     - Processing count for LSG = 2
+[2026-04-15 23:04:49] INFO     - Processing player of LSG : 'Rishabh Pant' | 197 points | team: LSG
+[2026-04-15 23:04:49] DEBUG    - Match found for Rishabh Pant in LSG at row 10
+[2026-04-15 23:04:49] INFO     - No update needed for Rishabh Pant in LSG as points are unchanged.
+[2026-04-15 23:04:49] DEBUG    - ===============================================================
+[2026-04-15 23:04:49] INFO     - Processing count for LSG = 3
+[2026-04-15 23:04:49] INFO     - Processing player of LSG : 'Ayush Badoni' | 170 points | team: LSG
+[2026-04-15 23:04:49] DEBUG    - Match found for Ayush Badoni in LSG at row 8
+[2026-04-15 23:04:50] INFO     - No update needed for Ayush Badoni in LSG as points are unchanged.
+[2026-04-15 23:04:50] DEBUG    - ===============================================================
+[2026-04-15 23:04:50] INFO     - Processing count for LSG = 4
+[2026-04-15 23:04:50] INFO     - Processing player of LSG : 'Mitchell Marsh' | 168 points | team: LSG
+[2026-04-15 23:04:50] DEBUG    - Match found for Mitchell Marsh in LSG at row 5
+[2026-04-15 23:04:50] INFO     - No update needed for Mitchell Marsh in LSG as points are unchanged.
+[2026-04-15 23:04:50] DEBUG    - ===============================================================
+[2026-04-15 23:04:50] INFO     - Processing count for LSG = 5
+[2026-04-15 23:04:50] INFO     - Processing player of LSG : 'Mohammad Shami' | 151 points | team: LSG
+[2026-04-15 23:04:50] DEBUG    - Match found for Mohammad Shami in LSG at row 7
+[2026-04-15 23:04:51] INFO     - No update needed for Mohammad Shami in LSG as points are unchanged.
+[2026-04-15 23:04:51] DEBUG    - ===============================================================
+[2026-04-15 23:04:51] INFO     - Processing count for LSG = 6
+[2026-04-15 23:04:51] INFO     - Processing player of LSG : 'Digvesh Singh' | 99 points | team: LSG
+[2026-04-15 23:04:51] DEBUG    - Match found for Digvesh Singh in LSG at row 9
+[2026-04-15 23:04:51] INFO     - No update needed for Digvesh Singh in LSG as points are unchanged.
+[2026-04-15 23:04:51] DEBUG    - ===============================================================
+[2026-04-15 23:04:51] INFO     - Processing count for LSG = 7
+[2026-04-15 23:04:51] INFO     - Processing player of LSG : 'Nicholas Pooran' | 77 points | team: LSG
+[2026-04-15 23:04:51] DEBUG    - Match found for Nicholas Pooran in LSG at row 6
+[2026-04-15 23:04:52] INFO     - No update needed for Nicholas Pooran in LSG as points are unchanged.
+[2026-04-15 23:04:52] DEBUG    - ===============================================================
+[2026-04-15 23:04:52] INFO     - Processing count for LSG = 8
+[2026-04-15 23:04:52] INFO     - Processing player of LSG : 'Mohsin Khan' | 55 points | team: LSG
+[2026-04-15 23:04:52] DEBUG    - Match found for Mohsin Khan in LSG at row 11
+[2026-04-15 23:04:52] INFO     - No update needed for Mohsin Khan in LSG as points are unchanged.
+[2026-04-15 23:04:52] DEBUG    - ===============================================================
+[2026-04-15 23:04:52] INFO     - Processing players for team: RCB
+[2026-04-15 23:04:52] DEBUG    - ===============================================================
+[2026-04-15 23:04:52] INFO     - Processing count for RCB = 1
+[2026-04-15 23:04:52] INFO     - Processing player of RCB : 'Rajat Patidar' | 380 points | team: RCB
+[2026-04-15 23:04:52] DEBUG    - Match found for Rajat Patidar in RCB at row 10
+[2026-04-15 23:04:52] INFO     - No update needed for Rajat Patidar in RCB as points are unchanged.
+[2026-04-15 23:04:52] DEBUG    - ===============================================================
+[2026-04-15 23:04:52] INFO     - Processing count for RCB = 2
+[2026-04-15 23:04:52] INFO     - Processing player of RCB : 'Virat Kohli' | 357 points | team: RCB
+[2026-04-15 23:04:52] DEBUG    - Match found for Virat Kohli in RCB at row 13
+[2026-04-15 23:04:53] INFO     - No update needed for Virat Kohli in RCB as points are unchanged.
+[2026-04-15 23:04:53] DEBUG    - ===============================================================
+[2026-04-15 23:04:53] INFO     - Processing count for RCB = 3
+[2026-04-15 23:04:53] INFO     - Processing player of RCB : 'Devdutt Padikkal' | 263 points | team: RCB
+[2026-04-15 23:04:53] DEBUG    - Match found for Devdutt Padikkal in RCB at row 12
+[2026-04-15 23:04:53] INFO     - No update needed for Devdutt Padikkal in RCB as points are unchanged.
+[2026-04-15 23:04:53] DEBUG    - ===============================================================
+[2026-04-15 23:04:53] INFO     - Processing count for RCB = 4
+[2026-04-15 23:04:53] INFO     - Processing player of RCB : 'Phil Salt' | 251 points | team: RCB
+[2026-04-15 23:04:53] DEBUG    - Match found for Phil Salt in RCB at row 6
+[2026-04-15 23:04:54] INFO     - No update needed for Phil Salt in RCB as points are unchanged.
+[2026-04-15 23:04:54] DEBUG    - ===============================================================
+[2026-04-15 23:04:54] INFO     - Processing count for RCB = 5
+[2026-04-15 23:04:54] INFO     - Processing player of RCB : 'Tim David' | 238 points | team: RCB
+[2026-04-15 23:04:54] DEBUG    - Match found for Tim David in Extra at row 8
+[2026-04-15 23:04:54] INFO     - No update needed for Tim David in Extra as points are unchanged.
+[2026-04-15 23:04:54] DEBUG    - ===============================================================
+[2026-04-15 23:04:54] INFO     - Processing count for RCB = 6
+[2026-04-15 23:04:54] INFO     - Processing player of RCB : 'Bhuvneshwar Kumar' | 229 points | team: RCB
+[2026-04-15 23:04:54] DEBUG    - Match found for Bhuvneshwar Kumar in RCB at row 7
+[2026-04-15 23:04:54] INFO     - No update needed for Bhuvneshwar Kumar in RCB as points are unchanged.
+[2026-04-15 23:04:54] DEBUG    - ===============================================================
+[2026-04-15 23:04:54] INFO     - Processing count for RCB = 7
+[2026-04-15 23:04:54] INFO     - Processing player of RCB : 'Krunal Pandya' | 202 points | team: RCB
+[2026-04-15 23:04:54] DEBUG    - Match found for Krunal Pandya in RCB at row 9
+[2026-04-15 23:04:55] INFO     - No update needed for Krunal Pandya in RCB as points are unchanged.
+[2026-04-15 23:04:55] DEBUG    - ===============================================================
+[2026-04-15 23:04:55] INFO     - Processing count for RCB = 8
+[2026-04-15 23:04:55] INFO     - Processing player of RCB : 'Rasikh Salam' | 167 points | team: RCB
+[2026-04-15 23:04:55] DEBUG    - Match found for Rasikh Salam in Extra at row 25
+[2026-04-15 23:04:55] INFO     - No update needed for Rasikh Salam in Extra as points are unchanged.
+[2026-04-15 23:04:55] DEBUG    - ===============================================================
+[2026-04-15 23:04:55] INFO     - Processing count for RCB = 9
+[2026-04-15 23:04:55] INFO     - Processing player of RCB : 'Romario Shepherd' | 152 points | team: RCB
+[2026-04-15 23:04:55] DEBUG    - Match found for Romario Shepherd in RCB at row 11
+[2026-04-15 23:04:56] INFO     - No update needed for Romario Shepherd in RCB as points are unchanged.
+[2026-04-15 23:04:56] DEBUG    - ===============================================================
+[2026-04-15 23:04:56] INFO     - Processing count for RCB = 10
+[2026-04-15 23:04:56] INFO     - Processing player of RCB : 'Suyash Sharma' | 116 points | team: RCB
+[2026-04-15 23:04:56] DEBUG    - Match found for Suyash Sharma in Extra at row 12
+[2026-04-15 23:04:56] INFO     - No update needed for Suyash Sharma in Extra as points are unchanged.
+[2026-04-15 23:04:56] DEBUG    - ===============================================================
+[2026-04-15 23:04:56] INFO     - Processing count for RCB = 11
+[2026-04-15 23:04:56] INFO     - Processing player of RCB : 'Jitesh Sharma' | 113 points | team: RCB
+[2026-04-15 23:04:56] DEBUG    - Match found for Jitesh Sharma in RCB at row 5
+[2026-04-15 23:04:56] INFO     - No update needed for Jitesh Sharma in RCB as points are unchanged.
+[2026-04-15 23:04:56] DEBUG    - ===============================================================
+[2026-04-15 23:04:56] INFO     - Processing count for RCB = 12
+[2026-04-15 23:04:56] INFO     - Processing player of RCB : 'Josh Hazlewood' | 99 points | team: RCB
+[2026-04-15 23:04:56] DEBUG    - Match found for Josh Hazlewood in RCB at row 8
+[2026-04-15 23:04:57] INFO     - No update needed for Josh Hazlewood in RCB as points are unchanged.
+[2026-04-15 23:04:57] DEBUG    - ===============================================================
+[2026-04-15 23:04:57] INFO     - Processing count for RCB = 13
+[2026-04-15 23:04:57] INFO     - Processing player of RCB : 'Venkatesh Iyer' | 44 points | team: RCB
+[2026-04-15 23:04:57] DEBUG    - Match found for Venkatesh Iyer in Extra at row 26
+[2026-04-15 23:04:57] INFO     - No update needed for Venkatesh Iyer in Extra as points are unchanged.
+[2026-04-15 23:04:57] DEBUG    - ===============================================================
+[2026-04-15 23:04:57] INFO     - Processing count for RCB = 14
+[2026-04-15 23:04:57] INFO     - 
+Skipping Yash Dayal as points is zero.
+[2026-04-15 23:04:57] DEBUG    - ===============================================================
+[2026-04-15 23:04:57] INFO     - Processing players for team: LSG
+[2026-04-15 23:04:57] DEBUG    - ===============================================================
+[2026-04-15 23:04:57] INFO     - Processing count for LSG = 1
+[2026-04-15 23:04:57] INFO     - Processing player of LSG : 'Aiden Markram' | 206 points | team: LSG
+[2026-04-15 23:04:57] DEBUG    - Match found for Aiden Markram in LSG at row 12
+[2026-04-15 23:04:58] INFO     - No update needed for Aiden Markram in LSG as points are unchanged.
+[2026-04-15 23:04:58] DEBUG    - ===============================================================
+[2026-04-15 23:04:58] INFO     - Processing count for LSG = 2
+[2026-04-15 23:04:58] INFO     - Processing player of LSG : 'Rishabh Pant' | 197 points | team: LSG
+[2026-04-15 23:04:58] DEBUG    - Match found for Rishabh Pant in LSG at row 10
+[2026-04-15 23:04:58] INFO     - No update needed for Rishabh Pant in LSG as points are unchanged.
+[2026-04-15 23:04:58] DEBUG    - ===============================================================
+[2026-04-15 23:04:58] INFO     - Processing count for LSG = 3
+[2026-04-15 23:04:58] INFO     - Processing player of LSG : 'Ayush Badoni' | 170 points | team: LSG
+[2026-04-15 23:04:58] DEBUG    - Match found for Ayush Badoni in LSG at row 8
+[2026-04-15 23:04:58] INFO     - No update needed for Ayush Badoni in LSG as points are unchanged.
+[2026-04-15 23:04:58] DEBUG    - ===============================================================
+[2026-04-15 23:04:58] INFO     - Processing count for LSG = 4
+[2026-04-15 23:04:58] INFO     - Processing player of LSG : 'Mitchell Marsh' | 168 points | team: LSG
+[2026-04-15 23:04:58] DEBUG    - Match found for Mitchell Marsh in LSG at row 5
+[2026-04-15 23:04:59] INFO     - No update needed for Mitchell Marsh in LSG as points are unchanged.
+[2026-04-15 23:04:59] DEBUG    - ===============================================================
+[2026-04-15 23:04:59] INFO     - Processing count for LSG = 5
+[2026-04-15 23:04:59] INFO     - Processing player of LSG : 'Mohammad Shami' | 151 points | team: LSG
+[2026-04-15 23:04:59] DEBUG    - Match found for Mohammad Shami in LSG at row 7
+[2026-04-15 23:04:59] INFO     - No update needed for Mohammad Shami in LSG as points are unchanged.
+[2026-04-15 23:04:59] DEBUG    - ===============================================================
+[2026-04-15 23:04:59] INFO     - Processing count for LSG = 6
+[2026-04-15 23:04:59] INFO     - Processing player of LSG : 'Digvesh Singh' | 99 points | team: LSG
+[2026-04-15 23:04:59] DEBUG    - Match found for Digvesh Singh in LSG at row 9
+[2026-04-15 23:05:00] INFO     - No update needed for Digvesh Singh in LSG as points are unchanged.
+[2026-04-15 23:05:00] DEBUG    - ===============================================================
+[2026-04-15 23:05:00] INFO     - Processing count for LSG = 7
+[2026-04-15 23:05:00] INFO     - Processing player of LSG : 'Nicholas Pooran' | 77 points | team: LSG
+[2026-04-15 23:05:00] DEBUG    - Match found for Nicholas Pooran in LSG at row 6
+[2026-04-15 23:05:00] INFO     - No update needed for Nicholas Pooran in LSG as points are unchanged.
+[2026-04-15 23:05:00] DEBUG    - ===============================================================
+[2026-04-15 23:05:00] INFO     - Processing count for LSG = 8
+[2026-04-15 23:05:00] INFO     - Processing player of LSG : 'Mohsin Khan' | 55 points | team: LSG
+[2026-04-15 23:05:00] DEBUG    - Match found for Mohsin Khan in LSG at row 11
+[2026-04-15 23:05:00] INFO     - No update needed for Mohsin Khan in LSG as points are unchanged.
+[2026-04-15 23:05:00] DEBUG    - ===============================================================
+[2026-04-15 23:05:00] INFO     - Pausing 10s before bowler updates.
+[2026-04-15 23:05:10] DEBUG    - ===============================================================
+[2026-04-15 23:05:10] DEBUG    - ===============================================================
+[2026-04-15 23:05:10] INFO     - Processing players for team: RCB
+[2026-04-15 23:05:10] DEBUG    - ===============================================================
+[2026-04-15 23:05:10] INFO     - Processing count for RCB = 1
+[2026-04-15 23:05:10] INFO     - Processing bowler of RCB : 'Romario Shepherd' | 7 dot balls
+[2026-04-15 23:05:10] DEBUG    - Match found for Romario Shepherd in Bowler at row 14
+[2026-04-15 23:05:11] INFO     - No update needed for Romario Shepherd in Bowler as points are unchanged.
+[2026-04-15 23:05:11] DEBUG    - ===============================================================
+[2026-04-15 23:05:11] INFO     - Processing count for RCB = 2
+[2026-04-15 23:05:11] INFO     - 
+ Skipping Rasikh Salam as points is zero.
+[2026-04-15 23:05:11] DEBUG    - ===============================================================
+[2026-04-15 23:05:11] INFO     - Processing count for RCB = 3
+[2026-04-15 23:05:11] INFO     - 
+ Skipping Phil Salt as points is zero.
+[2026-04-15 23:05:11] DEBUG    - ===============================================================
+[2026-04-15 23:05:11] INFO     - Processing count for RCB = 4
+[2026-04-15 23:05:11] INFO     - Processing bowler of RCB : 'Bhuvneshwar Kumar' | 43 dot balls
+[2026-04-15 23:05:11] DEBUG    - Match found for Bhuvneshwar Kumar in Bowler at row 36
+[2026-04-15 23:05:11] INFO     - No update needed for Bhuvneshwar Kumar in Bowler as points are unchanged.
+[2026-04-15 23:05:11] DEBUG    - ===============================================================
+[2026-04-15 23:05:11] INFO     - Processing count for RCB = 5
+[2026-04-15 23:05:11] INFO     - Processing bowler of RCB : 'Josh Hazlewood' | 21 dot balls
+[2026-04-15 23:05:11] DEBUG    - Match found for Josh Hazlewood in Bowler at row 37
+[2026-04-15 23:05:12] INFO     - No update needed for Josh Hazlewood in Bowler as points are unchanged.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 6
+[2026-04-15 23:05:12] INFO     - Processing bowler of RCB : 'Krunal Pandya' | 32 dot balls
+[2026-04-15 23:05:12] DEBUG    - Match found for Krunal Pandya in Bowler at row 52
+[2026-04-15 23:05:12] INFO     - No update needed for Krunal Pandya in Bowler as points are unchanged.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 7
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Rajat Patidar as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 8
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Devdutt Padikkal as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 9
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Virat Kohli as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 10
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Venkatesh Iyer as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 11
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Yash Dayal as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 12
+[2026-04-15 23:05:12] INFO     - 
+ Skipping Jitesh Sharma as points is zero.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 13
+[2026-04-15 23:05:12] INFO     - Processing bowler of RCB : 'Tim David' | 1 dot balls
+[2026-04-15 23:05:12] DEBUG    - Match found for Tim David in Bowler at row 102
+[2026-04-15 23:05:12] INFO     - No update needed for Tim David in Bowler as points are unchanged.
+[2026-04-15 23:05:12] DEBUG    - ===============================================================
+[2026-04-15 23:05:12] INFO     - Processing count for RCB = 14
+[2026-04-15 23:05:12] INFO     - Processing bowler of RCB : 'Suyash Sharma' | 28 dot balls
+[2026-04-15 23:05:12] DEBUG    - Match found for Suyash Sharma in Bowler at row 106
+[2026-04-15 23:05:13] INFO     - No update needed for Suyash Sharma in Bowler as points are unchanged.
+[2026-04-15 23:05:13] DEBUG    - ===============================================================
+[2026-04-15 23:05:13] INFO     - Processing players for team: LSG
+[2026-04-15 23:05:13] DEBUG    - ===============================================================
+[2026-04-15 23:05:13] INFO     - Processing count for LSG = 1
+[2026-04-15 23:05:13] INFO     - Processing bowler of LSG : 'Mohsin Khan' | 15 dot balls
+[2026-04-15 23:05:13] DEBUG    - Match found for Mohsin Khan in Bowler at row 8
+[2026-04-15 23:05:13] INFO     - No update needed for Mohsin Khan in Bowler as points are unchanged.
+[2026-04-15 23:05:13] DEBUG    - ===============================================================
+[2026-04-15 23:05:13] INFO     - Processing count for LSG = 2
+[2026-04-15 23:05:13] INFO     - 
+ Skipping Ayush Badoni as points is zero.
+[2026-04-15 23:05:13] DEBUG    - ===============================================================
+[2026-04-15 23:05:13] INFO     - Processing count for LSG = 3
+[2026-04-15 23:05:13] INFO     - Processing bowler of LSG : 'Digvesh Singh' | 24 dot balls
+[2026-04-15 23:05:13] DEBUG    - Match found for Digvesh Singh in Bowler at row 49
+[2026-04-15 23:05:14] INFO     - No update needed for Digvesh Singh in Bowler as points are unchanged.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] INFO     - Processing count for LSG = 4
+[2026-04-15 23:05:14] INFO     - 
+ Skipping Rishabh Pant as points is zero.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] INFO     - Processing count for LSG = 5
+[2026-04-15 23:05:14] INFO     - Processing bowler of LSG : 'Aiden Markram' | 4 dot balls
+[2026-04-15 23:05:14] DEBUG    - Match found for Aiden Markram in Bowler at row 67
+[2026-04-15 23:05:14] INFO     - No update needed for Aiden Markram in Bowler as points are unchanged.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] INFO     - Processing count for LSG = 6
+[2026-04-15 23:05:14] INFO     - 
+ Skipping Mitchell Marsh as points is zero.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] INFO     - Processing count for LSG = 7
+[2026-04-15 23:05:14] INFO     - 
+ Skipping Nicholas Pooran as points is zero.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] INFO     - Processing count for LSG = 8
+[2026-04-15 23:05:14] INFO     - Processing bowler of LSG : 'Mohammad Shami' | 58 dot balls
+[2026-04-15 23:05:14] DEBUG    - Match found for Mohammad Shami in Bowler at row 96
+[2026-04-15 23:05:14] INFO     - No update needed for Mohammad Shami in Bowler as points are unchanged.
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:14] DEBUG    - ===============================================================
+[2026-04-15 23:05:15] WARNING  - No points extracted from O2:P6 — aborting update.
+[2026-04-15 23:05:15] WARNING  - No TOP 12 points extracted from Home sheet — aborting.
+[2026-04-15 23:05:15] INFO     - ═════════════════════ All updates completed ═════════════════════

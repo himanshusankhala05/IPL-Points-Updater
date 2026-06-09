@@ -1,0 +1,28 @@
+[2026-05-15 23:47:44] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-05-15 23:47:45] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-05-15 23:47:45] INFO     - Google Sheets authentication successful.
+[2026-05-15 23:47:48] INFO     - Worksheets opened: ['Points', 'Home', 'Data']
+[2026-05-15 23:48:04] DEBUG    - ===============================================================
+[2026-05-15 23:48:04] INFO     - Pausing 5s before before next steps.
+[2026-05-15 23:48:04] DEBUG    - ===============================================================
+[2026-05-15 23:48:08] DEBUG    - ===============================================================
+[2026-05-15 23:48:08] DEBUG    - ===============================================================
+[2026-05-15 23:48:15] INFO     - Worksheets opened: ['Home', 'Data']
+[2026-05-15 23:48:15] INFO     - Points Gained Today fetched: {'HW': 237, 'MC': 0, 'OL': 23, 'AS': 80, 'PA': 65}
+[2026-05-15 23:48:16] INFO     - Writing to column 34 (15/05)
+[2026-05-15 23:48:16] DEBUG    -   HW → AH2 = 237
+[2026-05-15 23:48:16] DEBUG    -   MC → AH3 = 0
+[2026-05-15 23:48:16] DEBUG    -   OL → AH4 = 23
+[2026-05-15 23:48:16] DEBUG    -   AS → AH5 = 80
+[2026-05-15 23:48:16] DEBUG    -   PA → AH6 = 65
+[2026-05-15 23:48:17] INFO     - Successfully updated 5 team(s) for 15/05.
+[2026-05-15 23:48:17] INFO     - TOP 12 points fetched: {'HW': 6872, 'OL': 6530, 'AS': 6346, 'PA': 6263, 'MC': 5002}
+[2026-05-15 23:48:17] INFO     - Column mapping: {'HW': 2, 'MC': 3, 'OL': 4, 'AS': 5, 'PA': 6}
+[2026-05-15 23:48:18] INFO     - Today '15/05' found at row 57
+[2026-05-15 23:48:18] DEBUG    -   HW → B57 = 6872
+[2026-05-15 23:48:18] DEBUG    -   OL → D57 = 6530
+[2026-05-15 23:48:18] DEBUG    -   AS → E57 = 6346
+[2026-05-15 23:48:18] DEBUG    -   PA → F57 = 6263
+[2026-05-15 23:48:18] DEBUG    -   MC → C57 = 5002
+[2026-05-15 23:48:18] INFO     - Successfully updated 5 team(s) for '15/05' at row 57.
+[2026-05-15 23:48:19] INFO     - ═════════════════════ All updates completed ═════════════════════

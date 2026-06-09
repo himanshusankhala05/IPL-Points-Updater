@@ -1,0 +1,383 @@
+[2026-04-16 23:45:03] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-16 23:45:19] INFO     - Teams loaded: T1='PBSK', T2='MI'
+[2026-04-16 23:45:20] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-16 23:45:20] INFO     - Google Sheets authentication successful.
+[2026-04-16 23:45:25] INFO     - Worksheets opened: ['PBSK', 'MI', 'RCB', 'LSG', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-16 23:45:29] INFO     - Updated current date '16 Apr' in cell A1 of all sheets.
+[2026-04-16 23:45:32] DEBUG    - ===============================================================
+[2026-04-16 23:45:32] INFO     - Processing players for team: PBSK
+[2026-04-16 23:45:32] DEBUG    - ===============================================================
+[2026-04-16 23:45:32] INFO     - Processing count for PBSK = 1
+[2026-04-16 23:45:32] INFO     - Processing player of PBSK : 'Prabhsimran Singh' | 345 points | team: PBSK
+[2026-04-16 23:45:32] DEBUG    - Match found for Prabhsimran Singh in PBSK at row 6
+[2026-04-16 23:45:33] INFO     - Data updated successfully for Prabhsimran Singh in PBSK - 345 points!
+[2026-04-16 23:45:33] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:36] DEBUG    - ===============================================================
+[2026-04-16 23:45:36] INFO     - Processing count for PBSK = 2
+[2026-04-16 23:45:36] INFO     - Processing player of PBSK : 'Shreyas Iyer' | 319 points | team: PBSK
+[2026-04-16 23:45:36] WARNING  - Shreyas Iyer not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:45:36] DEBUG    - ===============================================================
+[2026-04-16 23:45:36] INFO     - Processing count for PBSK = 3
+[2026-04-16 23:45:36] INFO     - Processing player of PBSK : 'Cooper Connolly' | 221 points | team: PBSK
+[2026-04-16 23:45:36] DEBUG    - Match found for Cooper Connolly in Extra at row 9
+[2026-04-16 23:45:36] INFO     - Data updated successfully for Cooper Connolly in Extra - 221 points!
+[2026-04-16 23:45:36] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:39] DEBUG    - ===============================================================
+[2026-04-16 23:45:39] INFO     - Processing count for PBSK = 4
+[2026-04-16 23:45:39] INFO     - Processing player of PBSK : 'Priyansh Arya' | 190 points | team: PBSK
+[2026-04-16 23:45:39] DEBUG    - Match found for Priyansh Arya in PBSK at row 8
+[2026-04-16 23:45:40] INFO     - Data updated successfully for Priyansh Arya in PBSK - 190 points!
+[2026-04-16 23:45:40] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:43] DEBUG    - ===============================================================
+[2026-04-16 23:45:43] INFO     - Processing count for PBSK = 5
+[2026-04-16 23:45:43] INFO     - Processing player of PBSK : 'Arshdeep Singh' | 175 points | team: PBSK
+[2026-04-16 23:45:43] DEBUG    - Match found for Arshdeep Singh in PBSK at row 9
+[2026-04-16 23:45:44] INFO     - Data updated successfully for Arshdeep Singh in PBSK - 175 points!
+[2026-04-16 23:45:44] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:47] DEBUG    - ===============================================================
+[2026-04-16 23:45:47] INFO     - Processing count for PBSK = 6
+[2026-04-16 23:45:47] INFO     - Processing player of PBSK : 'Vijaykumar Vyshak' | 149 points | team: PBSK
+[2026-04-16 23:45:47] DEBUG    - Match found for Vijaykumar Vyshak in Extra at row 11
+[2026-04-16 23:45:48] INFO     - Data updated successfully for Vijaykumar Vyshak in Extra - 149 points!
+[2026-04-16 23:45:48] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:51] DEBUG    - ===============================================================
+[2026-04-16 23:45:51] INFO     - Processing count for PBSK = 7
+[2026-04-16 23:45:51] INFO     - Processing player of PBSK : 'Shashank Singh' | 144 points | team: PBSK
+[2026-04-16 23:45:51] DEBUG    - Match found for Shashank Singh in PBSK at row 7
+[2026-04-16 23:45:52] INFO     - Data updated successfully for Shashank Singh in PBSK - 144 points!
+[2026-04-16 23:45:52] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:55] DEBUG    - ===============================================================
+[2026-04-16 23:45:55] INFO     - Processing count for PBSK = 8
+[2026-04-16 23:45:55] INFO     - Processing player of PBSK : 'Marco Jansen' | 130 points | team: PBSK
+[2026-04-16 23:45:55] DEBUG    - Match found for Marco Jansen in Extra at row 22
+[2026-04-16 23:45:56] INFO     - Data updated successfully for Marco Jansen in Extra - 130 points!
+[2026-04-16 23:45:56] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:45:59] DEBUG    - ===============================================================
+[2026-04-16 23:45:59] INFO     - Processing count for PBSK = 9
+[2026-04-16 23:45:59] INFO     - Processing player of PBSK : 'Yuzvendra Chahal' | 101 points | team: PBSK
+[2026-04-16 23:45:59] DEBUG    - Match found for Yuzvendra Chahal in PBSK at row 11
+[2026-04-16 23:46:00] INFO     - Data updated successfully for Yuzvendra Chahal in PBSK - 101 points!
+[2026-04-16 23:46:00] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:03] DEBUG    - ===============================================================
+[2026-04-16 23:46:03] INFO     - Processing count for PBSK = 10
+[2026-04-16 23:46:03] INFO     - Processing player of PBSK : 'Nehal Wadhera' | 63 points | team: PBSK
+[2026-04-16 23:46:03] DEBUG    - Match found for Nehal Wadhera in PBSK at row 12
+[2026-04-16 23:46:03] INFO     - No update needed for Nehal Wadhera in PBSK as points are unchanged.
+[2026-04-16 23:46:03] DEBUG    - ===============================================================
+[2026-04-16 23:46:03] INFO     - Processing count for PBSK = 11
+[2026-04-16 23:46:03] INFO     - Processing player of PBSK : 'Marcus Stoinis' | 47 points | team: PBSK
+[2026-04-16 23:46:03] DEBUG    - Match found for Marcus Stoinis in PBSK at row 5
+[2026-04-16 23:46:04] INFO     - Data updated successfully for Marcus Stoinis in PBSK - 47 points!
+[2026-04-16 23:46:04] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:07] DEBUG    - ===============================================================
+[2026-04-16 23:46:07] INFO     - Processing count for PBSK = 12
+[2026-04-16 23:46:07] INFO     - 
+Skipping Harpreet Brar as points is zero.
+[2026-04-16 23:46:07] DEBUG    - ===============================================================
+[2026-04-16 23:46:07] INFO     - Processing players for team: MI
+[2026-04-16 23:46:07] DEBUG    - ===============================================================
+[2026-04-16 23:46:07] INFO     - Processing count for MI = 1
+[2026-04-16 23:46:07] INFO     - Processing player of MI : 'Rohit Sharma' | 204 points | team: MI
+[2026-04-16 23:46:07] DEBUG    - Match found for Rohit Sharma in MI at row 7
+[2026-04-16 23:46:07] INFO     - No update needed for Rohit Sharma in MI as points are unchanged.
+[2026-04-16 23:46:07] DEBUG    - ===============================================================
+[2026-04-16 23:46:07] INFO     - Processing count for MI = 2
+[2026-04-16 23:46:07] INFO     - Processing player of MI : 'Hardik Pandya' | 180 points | team: MI
+[2026-04-16 23:46:07] DEBUG    - Match found for Hardik Pandya in MI at row 5
+[2026-04-16 23:46:08] INFO     - Data updated successfully for Hardik Pandya in MI - 180 points!
+[2026-04-16 23:46:08] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:11] DEBUG    - ===============================================================
+[2026-04-16 23:46:11] INFO     - Processing count for MI = 3
+[2026-04-16 23:46:11] INFO     - Processing player of MI : 'Naman Dhir' | 176 points | team: MI
+[2026-04-16 23:46:11] DEBUG    - Match found for Naman Dhir in Extra at row 32
+[2026-04-16 23:46:12] INFO     - Data updated successfully for Naman Dhir in Extra - 176 points!
+[2026-04-16 23:46:12] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:15] DEBUG    - ===============================================================
+[2026-04-16 23:46:15] INFO     - Processing count for MI = 4
+[2026-04-16 23:46:15] INFO     - Processing player of MI : 'Quinton de Kock' | 168 points | team: MI
+[2026-04-16 23:46:15] DEBUG    - Match found for Quinton de Kock in MI at row 9
+[2026-04-16 23:46:16] INFO     - Data updated successfully for Quinton de Kock in MI - 168 points!
+[2026-04-16 23:46:16] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:19] DEBUG    - ===============================================================
+[2026-04-16 23:46:19] INFO     - Processing count for MI = 5
+[2026-04-16 23:46:19] INFO     - Processing player of MI : 'Suryakumar Yadav' | 167 points | team: MI
+[2026-04-16 23:46:19] DEBUG    - Match found for Suryakumar Yadav in MI at row 6
+[2026-04-16 23:46:20] INFO     - Data updated successfully for Suryakumar Yadav in MI - 167 points!
+[2026-04-16 23:46:20] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:23] DEBUG    - ===============================================================
+[2026-04-16 23:46:23] INFO     - Processing count for MI = 6
+[2026-04-16 23:46:23] INFO     - Processing player of MI : 'Shardul Thakur' | 159 points | team: MI
+[2026-04-16 23:46:23] DEBUG    - Match found for Shardul Thakur in Extra at row 18
+[2026-04-16 23:46:23] INFO     - Data updated successfully for Shardul Thakur in Extra - 159 points!
+[2026-04-16 23:46:23] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:26] DEBUG    - ===============================================================
+[2026-04-16 23:46:26] INFO     - Processing count for MI = 7
+[2026-04-16 23:46:26] INFO     - Processing player of MI : 'Tilak Varma' | 121 points | team: MI
+[2026-04-16 23:46:26] DEBUG    - Match found for Tilak Varma in MI at row 8
+[2026-04-16 23:46:27] INFO     - Data updated successfully for Tilak Varma in MI - 121 points!
+[2026-04-16 23:46:27] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:30] DEBUG    - ===============================================================
+[2026-04-16 23:46:30] INFO     - Processing count for MI = 8
+[2026-04-16 23:46:30] INFO     - Processing player of MI : 'Trent Boult' | 40 points | team: MI
+[2026-04-16 23:46:30] DEBUG    - Match found for Trent Boult in Extra at row 33
+[2026-04-16 23:46:31] INFO     - No update needed for Trent Boult in Extra as points are unchanged.
+[2026-04-16 23:46:31] DEBUG    - ===============================================================
+[2026-04-16 23:46:31] INFO     - Processing count for MI = 9
+[2026-04-16 23:46:31] INFO     - Processing player of MI : 'Jasprit Bumrah' | 38 points | team: MI
+[2026-04-16 23:46:31] DEBUG    - Match found for Jasprit Bumrah in MI at row 10
+[2026-04-16 23:46:31] INFO     - Data updated successfully for Jasprit Bumrah in MI - 38 points!
+[2026-04-16 23:46:31] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:34] DEBUG    - ===============================================================
+[2026-04-16 23:46:34] INFO     - Processing count for MI = 10
+[2026-04-16 23:46:34] INFO     - Processing player of MI : 'Corbin Bosch' | 36 points | team: MI
+[2026-04-16 23:46:34] DEBUG    - Match found for Corbin Bosch in Extra at row 7
+[2026-04-16 23:46:35] INFO     - No update needed for Corbin Bosch in Extra as points are unchanged.
+[2026-04-16 23:46:35] DEBUG    - ===============================================================
+[2026-04-16 23:46:35] INFO     - Processing count for MI = 11
+[2026-04-16 23:46:35] INFO     - 
+Skipping Will Jacks as points is zero.
+[2026-04-16 23:46:35] DEBUG    - ===============================================================
+[2026-04-16 23:46:35] INFO     - Processing players for team: RCB
+[2026-04-16 23:46:35] DEBUG    - ===============================================================
+[2026-04-16 23:46:35] INFO     - Processing count for RCB = 1
+[2026-04-16 23:46:35] INFO     - Processing player of RCB : 'Rajat Patidar' | 380 points | team: RCB
+[2026-04-16 23:46:35] DEBUG    - Match found for Rajat Patidar in RCB at row 10
+[2026-04-16 23:46:35] INFO     - No update needed for Rajat Patidar in RCB as points are unchanged.
+[2026-04-16 23:46:35] DEBUG    - ===============================================================
+[2026-04-16 23:46:35] INFO     - Processing count for RCB = 2
+[2026-04-16 23:46:35] INFO     - Processing player of RCB : 'Virat Kohli' | 357 points | team: RCB
+[2026-04-16 23:46:35] WARNING  - Virat Kohli not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:46:35] DEBUG    - ===============================================================
+[2026-04-16 23:46:35] INFO     - Processing count for RCB = 3
+[2026-04-16 23:46:35] INFO     - Processing player of RCB : 'Devdutt Padikkal' | 263 points | team: RCB
+[2026-04-16 23:46:35] DEBUG    - Match found for Devdutt Padikkal in RCB at row 12
+[2026-04-16 23:46:36] INFO     - No update needed for Devdutt Padikkal in RCB as points are unchanged.
+[2026-04-16 23:46:36] DEBUG    - ===============================================================
+[2026-04-16 23:46:36] INFO     - Processing count for RCB = 4
+[2026-04-16 23:46:36] INFO     - Processing player of RCB : 'Phil Salt' | 251 points | team: RCB
+[2026-04-16 23:46:36] DEBUG    - Match found for Phil Salt in RCB at row 6
+[2026-04-16 23:46:36] INFO     - No update needed for Phil Salt in RCB as points are unchanged.
+[2026-04-16 23:46:36] DEBUG    - ===============================================================
+[2026-04-16 23:46:36] INFO     - Processing count for RCB = 5
+[2026-04-16 23:46:36] INFO     - Processing player of RCB : 'Tim David' | 238 points | team: RCB
+[2026-04-16 23:46:36] WARNING  - Tim David not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:46:36] DEBUG    - ===============================================================
+[2026-04-16 23:46:36] INFO     - Processing count for RCB = 6
+[2026-04-16 23:46:36] INFO     - Processing player of RCB : 'Bhuvneshwar Kumar' | 229 points | team: RCB
+[2026-04-16 23:46:36] DEBUG    - Match found for Bhuvneshwar Kumar in RCB at row 7
+[2026-04-16 23:46:37] INFO     - No update needed for Bhuvneshwar Kumar in RCB as points are unchanged.
+[2026-04-16 23:46:37] DEBUG    - ===============================================================
+[2026-04-16 23:46:37] INFO     - Processing count for RCB = 7
+[2026-04-16 23:46:37] INFO     - Processing player of RCB : 'Krunal Pandya' | 202 points | team: RCB
+[2026-04-16 23:46:37] DEBUG    - Match found for Krunal Pandya in RCB at row 9
+[2026-04-16 23:46:37] INFO     - No update needed for Krunal Pandya in RCB as points are unchanged.
+[2026-04-16 23:46:37] DEBUG    - ===============================================================
+[2026-04-16 23:46:37] INFO     - Processing count for RCB = 8
+[2026-04-16 23:46:37] INFO     - Processing player of RCB : 'Rasikh Salam' | 167 points | team: RCB
+[2026-04-16 23:46:37] WARNING  - Rasikh Salam not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:46:37] DEBUG    - ===============================================================
+[2026-04-16 23:46:37] INFO     - Processing count for RCB = 9
+[2026-04-16 23:46:37] INFO     - Processing player of RCB : 'Romario Shepherd' | 152 points | team: RCB
+[2026-04-16 23:46:37] DEBUG    - Match found for Romario Shepherd in RCB at row 11
+[2026-04-16 23:46:37] INFO     - No update needed for Romario Shepherd in RCB as points are unchanged.
+[2026-04-16 23:46:37] DEBUG    - ===============================================================
+[2026-04-16 23:46:37] INFO     - Processing count for RCB = 10
+[2026-04-16 23:46:37] INFO     - Processing player of RCB : 'Suyash Sharma' | 116 points | team: RCB
+[2026-04-16 23:46:37] WARNING  - Suyash Sharma not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:46:37] DEBUG    - ===============================================================
+[2026-04-16 23:46:37] INFO     - Processing count for RCB = 11
+[2026-04-16 23:46:37] INFO     - Processing player of RCB : 'Jitesh Sharma' | 113 points | team: RCB
+[2026-04-16 23:46:37] DEBUG    - Match found for Jitesh Sharma in RCB at row 5
+[2026-04-16 23:46:38] INFO     - No update needed for Jitesh Sharma in RCB as points are unchanged.
+[2026-04-16 23:46:38] DEBUG    - ===============================================================
+[2026-04-16 23:46:38] INFO     - Processing count for RCB = 12
+[2026-04-16 23:46:38] INFO     - Processing player of RCB : 'Josh Hazlewood' | 99 points | team: RCB
+[2026-04-16 23:46:38] DEBUG    - Match found for Josh Hazlewood in RCB at row 8
+[2026-04-16 23:46:38] INFO     - No update needed for Josh Hazlewood in RCB as points are unchanged.
+[2026-04-16 23:46:38] DEBUG    - ===============================================================
+[2026-04-16 23:46:38] INFO     - Processing count for RCB = 13
+[2026-04-16 23:46:38] INFO     - Processing player of RCB : 'Venkatesh Iyer' | 44 points | team: RCB
+[2026-04-16 23:46:38] WARNING  - Venkatesh Iyer not found in (PBSK, MI, RCB, LSG, Extra).
+[2026-04-16 23:46:38] DEBUG    - ===============================================================
+[2026-04-16 23:46:38] INFO     - Processing count for RCB = 14
+[2026-04-16 23:46:38] INFO     - 
+Skipping Yash Dayal as points is zero.
+[2026-04-16 23:46:38] DEBUG    - ===============================================================
+[2026-04-16 23:46:38] INFO     - Processing players for team: LSG
+[2026-04-16 23:46:38] DEBUG    - ===============================================================
+[2026-04-16 23:46:38] INFO     - Processing count for LSG = 1
+[2026-04-16 23:46:38] INFO     - Processing player of LSG : 'Aiden Markram' | 206 points | team: LSG
+[2026-04-16 23:46:38] DEBUG    - Match found for Aiden Markram in LSG at row 12
+[2026-04-16 23:46:39] INFO     - No update needed for Aiden Markram in LSG as points are unchanged.
+[2026-04-16 23:46:39] DEBUG    - ===============================================================
+[2026-04-16 23:46:39] INFO     - Processing count for LSG = 2
+[2026-04-16 23:46:39] INFO     - Processing player of LSG : 'Rishabh Pant' | 197 points | team: LSG
+[2026-04-16 23:46:39] DEBUG    - Match found for Rishabh Pant in LSG at row 10
+[2026-04-16 23:46:39] INFO     - No update needed for Rishabh Pant in LSG as points are unchanged.
+[2026-04-16 23:46:39] DEBUG    - ===============================================================
+[2026-04-16 23:46:39] INFO     - Processing count for LSG = 3
+[2026-04-16 23:46:39] INFO     - Processing player of LSG : 'Ayush Badoni' | 170 points | team: LSG
+[2026-04-16 23:46:39] DEBUG    - Match found for Ayush Badoni in LSG at row 8
+[2026-04-16 23:46:40] INFO     - No update needed for Ayush Badoni in LSG as points are unchanged.
+[2026-04-16 23:46:40] DEBUG    - ===============================================================
+[2026-04-16 23:46:40] INFO     - Processing count for LSG = 4
+[2026-04-16 23:46:40] INFO     - Processing player of LSG : 'Mitchell Marsh' | 168 points | team: LSG
+[2026-04-16 23:46:40] DEBUG    - Match found for Mitchell Marsh in LSG at row 5
+[2026-04-16 23:46:40] INFO     - No update needed for Mitchell Marsh in LSG as points are unchanged.
+[2026-04-16 23:46:40] DEBUG    - ===============================================================
+[2026-04-16 23:46:40] INFO     - Processing count for LSG = 5
+[2026-04-16 23:46:40] INFO     - Processing player of LSG : 'Mohammad Shami' | 151 points | team: LSG
+[2026-04-16 23:46:40] DEBUG    - Match found for Mohammad Shami in LSG at row 7
+[2026-04-16 23:46:40] INFO     - No update needed for Mohammad Shami in LSG as points are unchanged.
+[2026-04-16 23:46:40] DEBUG    - ===============================================================
+[2026-04-16 23:46:40] INFO     - Processing count for LSG = 6
+[2026-04-16 23:46:40] INFO     - Processing player of LSG : 'Digvesh Singh' | 99 points | team: LSG
+[2026-04-16 23:46:40] DEBUG    - Match found for Digvesh Singh in LSG at row 9
+[2026-04-16 23:46:41] INFO     - No update needed for Digvesh Singh in LSG as points are unchanged.
+[2026-04-16 23:46:41] DEBUG    - ===============================================================
+[2026-04-16 23:46:41] INFO     - Processing count for LSG = 7
+[2026-04-16 23:46:41] INFO     - Processing player of LSG : 'Nicholas Pooran' | 77 points | team: LSG
+[2026-04-16 23:46:41] DEBUG    - Match found for Nicholas Pooran in LSG at row 6
+[2026-04-16 23:46:41] INFO     - No update needed for Nicholas Pooran in LSG as points are unchanged.
+[2026-04-16 23:46:41] DEBUG    - ===============================================================
+[2026-04-16 23:46:41] INFO     - Processing count for LSG = 8
+[2026-04-16 23:46:41] INFO     - Processing player of LSG : 'Mohsin Khan' | 55 points | team: LSG
+[2026-04-16 23:46:41] DEBUG    - Match found for Mohsin Khan in LSG at row 11
+[2026-04-16 23:46:42] INFO     - No update needed for Mohsin Khan in LSG as points are unchanged.
+[2026-04-16 23:46:42] DEBUG    - ===============================================================
+[2026-04-16 23:46:42] INFO     - Pausing 10s before bowler updates.
+[2026-04-16 23:46:42] DEBUG    - ===============================================================
+[2026-04-16 23:46:42] DEBUG    - ===============================================================
+[2026-04-16 23:46:42] INFO     - Processing players for team: PBSK
+[2026-04-16 23:46:42] DEBUG    - ===============================================================
+[2026-04-16 23:46:42] INFO     - Processing count for PBSK = 1
+[2026-04-16 23:46:42] INFO     - 
+ Skipping Harpreet Brar as points is zero.
+[2026-04-16 23:46:42] DEBUG    - ===============================================================
+[2026-04-16 23:46:42] INFO     - Processing count for PBSK = 2
+[2026-04-16 23:46:42] INFO     - Processing bowler of PBSK : 'Yuzvendra Chahal' | 19 dot balls
+[2026-04-16 23:46:42] DEBUG    - Match found for Yuzvendra Chahal in Bowler at row 13
+[2026-04-16 23:46:42] INFO     - Data updated successfully for Yuzvendra Chahal in Bowler - 19 Dot Balls!
+[2026-04-16 23:46:42] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:45] DEBUG    - ===============================================================
+[2026-04-16 23:46:45] INFO     - Processing count for PBSK = 3
+[2026-04-16 23:46:45] INFO     - 
+ Skipping Priyansh Arya as points is zero.
+[2026-04-16 23:46:45] DEBUG    - ===============================================================
+[2026-04-16 23:46:45] INFO     - Processing count for PBSK = 4
+[2026-04-16 23:46:45] INFO     - Processing bowler of PBSK : 'Marco Jansen' | 32 dot balls
+[2026-04-16 23:46:45] DEBUG    - Match found for Marco Jansen in Bowler at row 40
+[2026-04-16 23:46:46] INFO     - Data updated successfully for Marco Jansen in Bowler - 32 Dot Balls!
+[2026-04-16 23:46:46] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:49] DEBUG    - ===============================================================
+[2026-04-16 23:46:49] INFO     - Processing count for PBSK = 5
+[2026-04-16 23:46:49] INFO     - Processing bowler of PBSK : 'Arshdeep Singh' | 43 dot balls
+[2026-04-16 23:46:49] DEBUG    - Match found for Arshdeep Singh in Bowler at row 51
+[2026-04-16 23:46:50] INFO     - Data updated successfully for Arshdeep Singh in Bowler - 43 Dot Balls!
+[2026-04-16 23:46:50] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:53] DEBUG    - ===============================================================
+[2026-04-16 23:46:53] INFO     - Processing count for PBSK = 6
+[2026-04-16 23:46:53] INFO     - 
+ Skipping Nehal Wadhera as points is zero.
+[2026-04-16 23:46:53] DEBUG    - ===============================================================
+[2026-04-16 23:46:53] INFO     - Processing count for PBSK = 7
+[2026-04-16 23:46:53] INFO     - 
+ Skipping Shreyas Iyer as points is zero.
+[2026-04-16 23:46:53] DEBUG    - ===============================================================
+[2026-04-16 23:46:53] INFO     - Processing count for PBSK = 8
+[2026-04-16 23:46:53] INFO     - Processing bowler of PBSK : 'Marcus Stoinis' | 1 dot balls
+[2026-04-16 23:46:53] DEBUG    - Match found for Marcus Stoinis in Bowler at row 90
+[2026-04-16 23:46:54] INFO     - No update needed for Marcus Stoinis in Bowler as points are unchanged.
+[2026-04-16 23:46:54] DEBUG    - ===============================================================
+[2026-04-16 23:46:54] INFO     - Processing count for PBSK = 9
+[2026-04-16 23:46:54] INFO     - 
+ Skipping Prabhsimran Singh as points is zero.
+[2026-04-16 23:46:54] DEBUG    - ===============================================================
+[2026-04-16 23:46:54] INFO     - Processing count for PBSK = 10
+[2026-04-16 23:46:54] INFO     - Processing bowler of PBSK : 'Shashank Singh' | 10 dot balls
+[2026-04-16 23:46:54] DEBUG    - Match found for Shashank Singh in Bowler at row 92
+[2026-04-16 23:46:54] INFO     - Data updated successfully for Shashank Singh in Bowler - 10 Dot Balls!
+[2026-04-16 23:46:54] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing count for PBSK = 11
+[2026-04-16 23:46:57] INFO     - 
+ Skipping Cooper Connolly as points is zero.
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing count for PBSK = 12
+[2026-04-16 23:46:57] INFO     - 
+ Skipping Vijaykumar Vyshak as points is zero.
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing players for team: MI
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing count for MI = 1
+[2026-04-16 23:46:57] INFO     - 
+ Skipping Tilak Varma as points is zero.
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing count for MI = 2
+[2026-04-16 23:46:57] INFO     - 
+ Skipping Quinton de Kock as points is zero.
+[2026-04-16 23:46:57] DEBUG    - ===============================================================
+[2026-04-16 23:46:57] INFO     - Processing count for MI = 3
+[2026-04-16 23:46:57] INFO     - Processing bowler of MI : 'Jasprit Bumrah' | 38 dot balls
+[2026-04-16 23:46:57] DEBUG    - Match found for Jasprit Bumrah in Bowler at row 11
+[2026-04-16 23:46:58] INFO     - Data updated successfully for Jasprit Bumrah in Bowler - 38 Dot Balls!
+[2026-04-16 23:46:58] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:47:01] DEBUG    - ===============================================================
+[2026-04-16 23:47:01] INFO     - Processing count for MI = 4
+[2026-04-16 23:47:01] INFO     - Processing bowler of MI : 'Hardik Pandya' | 20 dot balls
+[2026-04-16 23:47:01] DEBUG    - Match found for Hardik Pandya in Bowler at row 31
+[2026-04-16 23:47:02] INFO     - Data updated successfully for Hardik Pandya in Bowler - 20 Dot Balls!
+[2026-04-16 23:47:02] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:47:05] DEBUG    - ===============================================================
+[2026-04-16 23:47:05] INFO     - Processing count for MI = 5
+[2026-04-16 23:47:05] INFO     - 
+ Skipping Suryakumar Yadav as points is zero.
+[2026-04-16 23:47:05] DEBUG    - ===============================================================
+[2026-04-16 23:47:05] INFO     - Processing count for MI = 6
+[2026-04-16 23:47:05] INFO     - 
+ Skipping Rohit Sharma as points is zero.
+[2026-04-16 23:47:05] DEBUG    - ===============================================================
+[2026-04-16 23:47:05] INFO     - Processing count for MI = 7
+[2026-04-16 23:47:05] INFO     - 
+ Skipping Naman Dhir as points is zero.
+[2026-04-16 23:47:05] DEBUG    - ===============================================================
+[2026-04-16 23:47:05] INFO     - Processing count for MI = 8
+[2026-04-16 23:47:05] INFO     - 
+ Skipping Will Jacks as points is zero.
+[2026-04-16 23:47:05] DEBUG    - ===============================================================
+[2026-04-16 23:47:05] INFO     - Processing count for MI = 9
+[2026-04-16 23:47:05] INFO     - Processing bowler of MI : 'Trent Boult' | 12 dot balls
+[2026-04-16 23:47:05] DEBUG    - Match found for Trent Boult in Bowler at row 77
+[2026-04-16 23:47:06] INFO     - No update needed for Trent Boult in Bowler as points are unchanged.
+[2026-04-16 23:47:06] DEBUG    - ===============================================================
+[2026-04-16 23:47:06] INFO     - Processing count for MI = 10
+[2026-04-16 23:47:06] INFO     - Processing bowler of MI : 'Shardul Thakur' | 17 dot balls
+[2026-04-16 23:47:06] DEBUG    - Match found for Shardul Thakur in Bowler at row 80
+[2026-04-16 23:47:06] INFO     - Data updated successfully for Shardul Thakur in Bowler - 17 Dot Balls!
+[2026-04-16 23:47:06] DEBUG    - Sleeping 3s before next update.
+[2026-04-16 23:47:09] DEBUG    - ===============================================================
+[2026-04-16 23:47:09] INFO     - Processing count for MI = 11
+[2026-04-16 23:47:09] INFO     - Processing bowler of MI : 'Corbin Bosch' | 6 dot balls
+[2026-04-16 23:47:09] DEBUG    - Match found for Corbin Bosch in Bowler at row 101
+[2026-04-16 23:47:10] INFO     - No update needed for Corbin Bosch in Bowler as points are unchanged.
+[2026-04-16 23:47:10] DEBUG    - ===============================================================
+[2026-04-16 23:47:10] DEBUG    - ===============================================================
+[2026-04-16 23:47:14] INFO     - Worksheets opened: ['PBSK', 'MI', 'RCB', 'LSG', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-16 23:47:15] INFO     - Points Gained Today fetched: {'HW': -223, 'MC': -22, 'OL': 53, 'AS': 196, 'PA': 431}
+[2026-04-16 23:47:15] INFO     - Writing to column 5 (16/04)
+[2026-04-16 23:47:16] DEBUG    -   HW → E2 = -223
+[2026-04-16 23:47:16] DEBUG    -   MC → E3 = -22
+[2026-04-16 23:47:16] DEBUG    -   OL → E4 = 53
+[2026-04-16 23:47:16] DEBUG    -   AS → E5 = 196
+[2026-04-16 23:47:16] DEBUG    -   PA → E6 = 431
+[2026-04-16 23:47:16] INFO     - Successfully updated 5 team(s) for 16/04.
+[2026-04-16 23:47:16] INFO     - TOP 12 points fetched: {'PA': 2713, 'AS': 2514, 'HW': 2490, 'MC': 2360, 'OL': 2390}
+[2026-04-16 23:47:17] INFO     - Column mapping: {'HW': 2, 'MC': 3, 'OL': 4, 'AS': 5, 'PA': 6}
+[2026-04-16 23:47:17] INFO     - Today '16/04' found at row 25
+[2026-04-16 23:47:17] DEBUG    -   PA → F25 = 2713
+[2026-04-16 23:47:17] DEBUG    -   AS → E25 = 2514
+[2026-04-16 23:47:17] DEBUG    -   HW → B25 = 2490
+[2026-04-16 23:47:17] DEBUG    -   MC → C25 = 2360
+[2026-04-16 23:47:17] DEBUG    -   OL → D25 = 2390
+[2026-04-16 23:47:18] INFO     - Successfully updated 5 team(s) for '16/04' at row 25.
+[2026-04-16 23:47:18] INFO     - ═════════════════════ All updates completed ═════════════════════

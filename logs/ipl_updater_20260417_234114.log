@@ -1,0 +1,342 @@
+[2026-04-17 23:41:14] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-17 23:41:21] INFO     - Teams loaded: T1='GT', T2='KKR'
+[2026-04-17 23:41:22] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-17 23:41:22] INFO     - Google Sheets authentication successful.
+[2026-04-17 23:41:28] INFO     - Worksheets opened: ['GT', 'KKR', 'MI', 'CSK', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-17 23:41:31] INFO     - Updated current date '17 Apr' in cell A1 of all sheets.
+[2026-04-17 23:41:34] DEBUG    - ===============================================================
+[2026-04-17 23:41:34] INFO     - Processing players for team: GT
+[2026-04-17 23:41:34] DEBUG    - ===============================================================
+[2026-04-17 23:41:34] INFO     - Processing count for GT = 1
+[2026-04-17 23:41:34] INFO     - Processing player of GT : 'Shubman Gill' | 393 points | team: GT
+[2026-04-17 23:42:06] DEBUG    - Match found for Shubman Gill in GT at row 5
+[2026-04-17 23:42:07] INFO     - Data updated successfully for Shubman Gill in GT - 393 points!
+[2026-04-17 23:42:07] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:10] DEBUG    - ===============================================================
+[2026-04-17 23:42:10] INFO     - Processing count for GT = 2
+[2026-04-17 23:42:10] INFO     - Processing player of GT : 'Jos Buttler' | 389 points | team: GT
+[2026-04-17 23:42:18] DEBUG    - Match found for Jos Buttler in GT at row 10
+[2026-04-17 23:42:19] INFO     - Data updated successfully for Jos Buttler in GT - 389 points!
+[2026-04-17 23:42:19] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:22] DEBUG    - ===============================================================
+[2026-04-17 23:42:22] INFO     - Processing count for GT = 3
+[2026-04-17 23:42:22] INFO     - Processing player of GT : 'Prasidh Krishna' | 313 points | team: GT
+[2026-04-17 23:42:22] WARNING  - Prasidh Krishna not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:42:22] DEBUG    - ===============================================================
+[2026-04-17 23:42:22] INFO     - Processing count for GT = 4
+[2026-04-17 23:42:22] INFO     - Processing player of GT : 'Kagiso Rabada' | 231 points | team: GT
+[2026-04-17 23:42:22] DEBUG    - Match found for Kagiso Rabada in Extra at row 21
+[2026-04-17 23:42:23] INFO     - Data updated successfully for Kagiso Rabada in Extra - 231 points!
+[2026-04-17 23:42:23] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:26] DEBUG    - ===============================================================
+[2026-04-17 23:42:26] INFO     - Processing count for GT = 5
+[2026-04-17 23:42:26] INFO     - Processing player of GT : 'Rashid Khan' | 221 points | team: GT
+[2026-04-17 23:42:26] DEBUG    - Match found for Rashid Khan in GT at row 8
+[2026-04-17 23:42:27] INFO     - Data updated successfully for Rashid Khan in GT - 221 points!
+[2026-04-17 23:42:27] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:30] DEBUG    - ===============================================================
+[2026-04-17 23:42:30] INFO     - Processing count for GT = 6
+[2026-04-17 23:42:30] INFO     - Processing player of GT : 'Sai Sudharsan' | 216 points | team: GT
+[2026-04-17 23:42:30] DEBUG    - Match found for Sai Sudharsan in GT at row 9
+[2026-04-17 23:42:31] INFO     - Data updated successfully for Sai Sudharsan in GT - 216 points!
+[2026-04-17 23:42:31] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:34] DEBUG    - ===============================================================
+[2026-04-17 23:42:34] INFO     - Processing count for GT = 7
+[2026-04-17 23:42:34] INFO     - Processing player of GT : 'Mohammed Siraj' | 167 points | team: GT
+[2026-04-17 23:42:34] DEBUG    - Match found for Mohammed Siraj in GT at row 6
+[2026-04-17 23:42:36] INFO     - Data updated successfully for Mohammed Siraj in GT - 167 points!
+[2026-04-17 23:42:36] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:39] DEBUG    - ===============================================================
+[2026-04-17 23:42:39] INFO     - Processing count for GT = 8
+[2026-04-17 23:42:39] INFO     - Processing player of GT : 'Glenn Phillips' | 147 points | team: GT
+[2026-04-17 23:42:39] DEBUG    - Match found for Glenn Phillips in GT at row 7
+[2026-04-17 23:42:40] INFO     - Data updated successfully for Glenn Phillips in GT - 147 points!
+[2026-04-17 23:42:40] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:43] DEBUG    - ===============================================================
+[2026-04-17 23:42:43] INFO     - Processing count for GT = 9
+[2026-04-17 23:42:43] INFO     - Processing player of GT : 'Rahul Tewatia' | 82 points | team: GT
+[2026-04-17 23:42:43] DEBUG    - Match found for Rahul Tewatia in Extra at row 14
+[2026-04-17 23:42:43] INFO     - Data updated successfully for Rahul Tewatia in Extra - 82 points!
+[2026-04-17 23:42:43] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:46] DEBUG    - ===============================================================
+[2026-04-17 23:42:46] INFO     - Processing count for GT = 10
+[2026-04-17 23:42:46] INFO     - 
+Skipping Jason Holder as points is zero.
+[2026-04-17 23:42:46] DEBUG    - ===============================================================
+[2026-04-17 23:42:46] INFO     - Processing players for team: KKR
+[2026-04-17 23:42:46] DEBUG    - ===============================================================
+[2026-04-17 23:42:46] INFO     - Processing count for KKR = 1
+[2026-04-17 23:42:46] INFO     - Processing player of KKR : 'Angkrish Raghuvanshi' | 294 points | team: KKR
+[2026-04-17 23:42:46] DEBUG    - Match found for Angkrish Raghuvanshi in KKR at row 5
+[2026-04-17 23:42:48] INFO     - Data updated successfully for Angkrish Raghuvanshi in KKR - 294 points!
+[2026-04-17 23:42:48] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:51] DEBUG    - ===============================================================
+[2026-04-17 23:42:51] INFO     - Processing count for KKR = 2
+[2026-04-17 23:42:51] INFO     - Processing player of KKR : 'Cameron Green' | 240 points | team: KKR
+[2026-04-17 23:42:51] DEBUG    - Match found for Cameron Green in KKR at row 8
+[2026-04-17 23:42:52] INFO     - Data updated successfully for Cameron Green in KKR - 240 points!
+[2026-04-17 23:42:52] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:55] DEBUG    - ===============================================================
+[2026-04-17 23:42:55] INFO     - Processing count for KKR = 3
+[2026-04-17 23:42:55] INFO     - Processing player of KKR : 'Ajinkya Rahane' | 230 points | team: KKR
+[2026-04-17 23:42:55] DEBUG    - Match found for Ajinkya Rahane in KKR at row 7
+[2026-04-17 23:42:55] INFO     - Data updated successfully for Ajinkya Rahane in KKR - 230 points!
+[2026-04-17 23:42:55] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:42:58] DEBUG    - ===============================================================
+[2026-04-17 23:42:58] INFO     - Processing count for KKR = 4
+[2026-04-17 23:42:58] INFO     - Processing player of KKR : 'Vaibhav Arora' | 200 points | team: KKR
+[2026-04-17 23:42:58] WARNING  - Vaibhav Arora not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:42:58] DEBUG    - ===============================================================
+[2026-04-17 23:42:58] INFO     - Processing count for KKR = 5
+[2026-04-17 23:42:58] INFO     - Processing player of KKR : 'Sunil Narine' | 182 points | team: KKR
+[2026-04-17 23:42:58] DEBUG    - Match found for Sunil Narine in KKR at row 6
+[2026-04-17 23:42:59] INFO     - Data updated successfully for Sunil Narine in KKR - 182 points!
+[2026-04-17 23:42:59] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:02] DEBUG    - ===============================================================
+[2026-04-17 23:43:02] INFO     - Processing count for KKR = 6
+[2026-04-17 23:43:02] INFO     - Processing player of KKR : 'Rinku Singh' | 163 points | team: KKR
+[2026-04-17 23:43:02] DEBUG    - Match found for Rinku Singh in Extra at row 28
+[2026-04-17 23:43:03] INFO     - Data updated successfully for Rinku Singh in Extra - 163 points!
+[2026-04-17 23:43:03] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:06] DEBUG    - ===============================================================
+[2026-04-17 23:43:06] INFO     - Processing count for KKR = 7
+[2026-04-17 23:43:06] INFO     - Processing player of KKR : 'Finn Allen' | 138 points | team: KKR
+[2026-04-17 23:43:06] DEBUG    - Match found for Finn Allen in Extra at row 29
+[2026-04-17 23:43:07] INFO     - No update needed for Finn Allen in Extra as points are unchanged.
+[2026-04-17 23:43:07] DEBUG    - ===============================================================
+[2026-04-17 23:43:07] INFO     - Processing count for KKR = 8
+[2026-04-17 23:43:07] INFO     - Processing player of KKR : 'Varun Chakaravarthy' | 70 points | team: KKR
+[2026-04-17 23:43:07] DEBUG    - Match found for Varun Chakaravarthy in KKR at row 9
+[2026-04-17 23:43:07] INFO     - Data updated successfully for Varun Chakaravarthy in KKR - 70 points!
+[2026-04-17 23:43:07] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:10] DEBUG    - ===============================================================
+[2026-04-17 23:43:10] INFO     - Processing count for KKR = 9
+[2026-04-17 23:43:10] INFO     - 
+Skipping Matheesha Pathirana as points is zero.
+[2026-04-17 23:43:10] DEBUG    - ===============================================================
+[2026-04-17 23:43:10] INFO     - Processing players for team: MI
+[2026-04-17 23:43:10] DEBUG    - ===============================================================
+[2026-04-17 23:43:10] INFO     - Processing count for MI = 1
+[2026-04-17 23:43:10] INFO     - Processing player of MI : 'Rohit Sharma' | 204 points | team: MI
+[2026-04-17 23:43:10] DEBUG    - Match found for Rohit Sharma in MI at row 7
+[2026-04-17 23:43:11] INFO     - No update needed for Rohit Sharma in MI as points are unchanged.
+[2026-04-17 23:43:11] DEBUG    - ===============================================================
+[2026-04-17 23:43:11] INFO     - Processing count for MI = 2
+[2026-04-17 23:43:11] INFO     - Processing player of MI : 'Hardik Pandya' | 180 points | team: MI
+[2026-04-17 23:43:11] DEBUG    - Match found for Hardik Pandya in MI at row 5
+[2026-04-17 23:43:12] INFO     - No update needed for Hardik Pandya in MI as points are unchanged.
+[2026-04-17 23:43:12] DEBUG    - ===============================================================
+[2026-04-17 23:43:12] INFO     - Processing count for MI = 3
+[2026-04-17 23:43:12] INFO     - Processing player of MI : 'Naman Dhir' | 176 points | team: MI
+[2026-04-17 23:43:12] WARNING  - Naman Dhir not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:12] DEBUG    - ===============================================================
+[2026-04-17 23:43:12] INFO     - Processing count for MI = 4
+[2026-04-17 23:43:12] INFO     - Processing player of MI : 'Quinton de Kock' | 168 points | team: MI
+[2026-04-17 23:43:12] DEBUG    - Match found for Quinton de Kock in MI at row 9
+[2026-04-17 23:43:12] INFO     - No update needed for Quinton de Kock in MI as points are unchanged.
+[2026-04-17 23:43:12] DEBUG    - ===============================================================
+[2026-04-17 23:43:12] INFO     - Processing count for MI = 5
+[2026-04-17 23:43:12] INFO     - Processing player of MI : 'Suryakumar Yadav' | 167 points | team: MI
+[2026-04-17 23:43:12] DEBUG    - Match found for Suryakumar Yadav in MI at row 6
+[2026-04-17 23:43:13] INFO     - No update needed for Suryakumar Yadav in MI as points are unchanged.
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 6
+[2026-04-17 23:43:13] INFO     - Processing player of MI : 'Shardul Thakur' | 159 points | team: MI
+[2026-04-17 23:43:13] WARNING  - Shardul Thakur not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 7
+[2026-04-17 23:43:13] INFO     - Processing player of MI : 'Tilak Varma' | 121 points | team: MI
+[2026-04-17 23:43:13] DEBUG    - Match found for Tilak Varma in MI at row 8
+[2026-04-17 23:43:13] INFO     - No update needed for Tilak Varma in MI as points are unchanged.
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 8
+[2026-04-17 23:43:13] INFO     - Processing player of MI : 'Trent Boult' | 40 points | team: MI
+[2026-04-17 23:43:13] WARNING  - Trent Boult not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 9
+[2026-04-17 23:43:13] INFO     - Processing player of MI : 'Jasprit Bumrah' | 38 points | team: MI
+[2026-04-17 23:43:13] DEBUG    - Match found for Jasprit Bumrah in MI at row 10
+[2026-04-17 23:43:13] INFO     - No update needed for Jasprit Bumrah in MI as points are unchanged.
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 10
+[2026-04-17 23:43:13] INFO     - Processing player of MI : 'Corbin Bosch' | 36 points | team: MI
+[2026-04-17 23:43:13] WARNING  - Corbin Bosch not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for MI = 11
+[2026-04-17 23:43:13] INFO     - 
+Skipping Will Jacks as points is zero.
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing players for team: CSK
+[2026-04-17 23:43:13] DEBUG    - ===============================================================
+[2026-04-17 23:43:13] INFO     - Processing count for CSK = 1
+[2026-04-17 23:43:13] INFO     - Processing player of CSK : 'Sanju Samson' | 272 points | team: CSK
+[2026-04-17 23:43:13] DEBUG    - Match found for Sanju Samson in CSK at row 11
+[2026-04-17 23:43:14] INFO     - No update needed for Sanju Samson in CSK as points are unchanged.
+[2026-04-17 23:43:14] DEBUG    - ===============================================================
+[2026-04-17 23:43:14] INFO     - Processing count for CSK = 2
+[2026-04-17 23:43:14] INFO     - Processing player of CSK : 'Ayush Mhatre' | 260 points | team: CSK
+[2026-04-17 23:43:14] DEBUG    - Match found for Ayush Mhatre in CSK at row 6
+[2026-04-17 23:43:14] INFO     - No update needed for Ayush Mhatre in CSK as points are unchanged.
+[2026-04-17 23:43:14] DEBUG    - ===============================================================
+[2026-04-17 23:43:14] INFO     - Processing count for CSK = 3
+[2026-04-17 23:43:14] INFO     - Processing player of CSK : 'Shivam Dube' | 199 points | team: CSK
+[2026-04-17 23:43:14] DEBUG    - Match found for Shivam Dube in CSK at row 10
+[2026-04-17 23:43:15] INFO     - No update needed for Shivam Dube in CSK as points are unchanged.
+[2026-04-17 23:43:15] DEBUG    - ===============================================================
+[2026-04-17 23:43:15] INFO     - Processing count for CSK = 4
+[2026-04-17 23:43:15] INFO     - Processing player of CSK : 'Noor Ahmad' | 153 points | team: CSK
+[2026-04-17 23:43:15] WARNING  - Noor Ahmad not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:15] DEBUG    - ===============================================================
+[2026-04-17 23:43:15] INFO     - Processing count for CSK = 5
+[2026-04-17 23:43:15] INFO     - Processing player of CSK : 'Ruturaj Gaikwad' | 100 points | team: CSK
+[2026-04-17 23:43:15] DEBUG    - Match found for Ruturaj Gaikwad in CSK at row 9
+[2026-04-17 23:43:15] INFO     - No update needed for Ruturaj Gaikwad in CSK as points are unchanged.
+[2026-04-17 23:43:15] DEBUG    - ===============================================================
+[2026-04-17 23:43:15] INFO     - Processing count for CSK = 6
+[2026-04-17 23:43:15] INFO     - Processing player of CSK : 'Dewald Brevis' | 99 points | team: CSK
+[2026-04-17 23:43:15] DEBUG    - Match found for Dewald Brevis in CSK at row 12
+[2026-04-17 23:43:16] INFO     - No update needed for Dewald Brevis in CSK as points are unchanged.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 7
+[2026-04-17 23:43:16] INFO     - Processing player of CSK : 'Prashant Veer' | 72 points | team: CSK
+[2026-04-17 23:43:16] DEBUG    - Match found for Prashant Veer in CSK at row 8
+[2026-04-17 23:43:16] INFO     - No update needed for Prashant Veer in CSK as points are unchanged.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 8
+[2026-04-17 23:43:16] INFO     - Processing player of CSK : 'Khaleel Ahmed' | 70 points | team: CSK
+[2026-04-17 23:43:16] WARNING  - Khaleel Ahmed not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 9
+[2026-04-17 23:43:16] INFO     - Processing player of CSK : 'Kartik Sharma' | 41 points | team: CSK
+[2026-04-17 23:43:16] WARNING  - Kartik Sharma not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 10
+[2026-04-17 23:43:16] INFO     - Processing player of CSK : 'Rahul Chahar' | 8 points | team: CSK
+[2026-04-17 23:43:16] WARNING  - Rahul Chahar not found in (GT, KKR, MI, CSK, Extra).
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 11
+[2026-04-17 23:43:16] INFO     - 
+Skipping MS Dhoni as points is zero.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for CSK = 12
+[2026-04-17 23:43:16] INFO     - 
+Skipping Nathan Ellis as points is zero.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Pausing 10s before bowler updates.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing players for team: GT
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for GT = 1
+[2026-04-17 23:43:16] INFO     - 
+ Skipping Sai Sudharsan as points is zero.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for GT = 2
+[2026-04-17 23:43:16] INFO     - 
+ Skipping Glenn Phillips as points is zero.
+[2026-04-17 23:43:16] DEBUG    - ===============================================================
+[2026-04-17 23:43:16] INFO     - Processing count for GT = 3
+[2026-04-17 23:43:16] INFO     - Processing bowler of GT : 'Rashid Khan' | 43 dot balls
+[2026-04-17 23:43:16] DEBUG    - Match found for Rashid Khan in Bowler at row 46
+[2026-04-17 23:43:17] INFO     - Data updated successfully for Rashid Khan in Bowler - 43 Dot Balls!
+[2026-04-17 23:43:17] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:20] DEBUG    - ===============================================================
+[2026-04-17 23:43:20] INFO     - Processing count for GT = 4
+[2026-04-17 23:43:20] INFO     - 
+ Skipping Rahul Tewatia as points is zero.
+[2026-04-17 23:43:20] DEBUG    - ===============================================================
+[2026-04-17 23:43:20] INFO     - Processing count for GT = 5
+[2026-04-17 23:43:20] INFO     - 
+ Skipping Jason Holder as points is zero.
+[2026-04-17 23:43:20] DEBUG    - ===============================================================
+[2026-04-17 23:43:20] INFO     - Processing count for GT = 6
+[2026-04-17 23:43:20] INFO     - 
+ Skipping Jos Buttler as points is zero.
+[2026-04-17 23:43:20] DEBUG    - ===============================================================
+[2026-04-17 23:43:20] INFO     - Processing count for GT = 7
+[2026-04-17 23:43:20] INFO     - Processing bowler of GT : 'Prasidh Krishna' | 48 dot balls
+[2026-04-17 23:43:20] DEBUG    - Match found for Prasidh Krishna in Bowler at row 65
+[2026-04-17 23:43:21] INFO     - Data updated successfully for Prasidh Krishna in Bowler - 48 Dot Balls!
+[2026-04-17 23:43:21] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:24] DEBUG    - ===============================================================
+[2026-04-17 23:43:24] INFO     - Processing count for GT = 8
+[2026-04-17 23:43:24] INFO     - 
+ Skipping Shubman Gill as points is zero.
+[2026-04-17 23:43:24] DEBUG    - ===============================================================
+[2026-04-17 23:43:24] INFO     - Processing count for GT = 9
+[2026-04-17 23:43:24] INFO     - Processing bowler of GT : 'Mohammed Siraj' | 52 dot balls
+[2026-04-17 23:43:24] DEBUG    - Match found for Mohammed Siraj in Bowler at row 86
+[2026-04-17 23:43:25] INFO     - Data updated successfully for Mohammed Siraj in Bowler - 52 Dot Balls!
+[2026-04-17 23:43:25] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:28] DEBUG    - ===============================================================
+[2026-04-17 23:43:28] INFO     - Processing count for GT = 10
+[2026-04-17 23:43:28] INFO     - Processing bowler of GT : 'Kagiso Rabada' | 47 dot balls
+[2026-04-17 23:43:28] DEBUG    - Match found for Kagiso Rabada in Bowler at row 97
+[2026-04-17 23:43:29] INFO     - Data updated successfully for Kagiso Rabada in Bowler - 47 Dot Balls!
+[2026-04-17 23:43:29] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:32] DEBUG    - ===============================================================
+[2026-04-17 23:43:32] INFO     - Processing players for team: KKR
+[2026-04-17 23:43:32] DEBUG    - ===============================================================
+[2026-04-17 23:43:32] INFO     - Processing count for KKR = 1
+[2026-04-17 23:43:32] INFO     - 
+ Skipping Matheesha Pathirana as points is zero.
+[2026-04-17 23:43:32] DEBUG    - ===============================================================
+[2026-04-17 23:43:32] INFO     - Processing count for KKR = 2
+[2026-04-17 23:43:32] INFO     - Processing bowler of KKR : 'Sunil Narine' | 48 dot balls
+[2026-04-17 23:43:32] DEBUG    - Match found for Sunil Narine in Bowler at row 28
+[2026-04-17 23:43:33] INFO     - Data updated successfully for Sunil Narine in Bowler - 48 Dot Balls!
+[2026-04-17 23:43:33] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:36] DEBUG    - ===============================================================
+[2026-04-17 23:43:36] INFO     - Processing count for KKR = 3
+[2026-04-17 23:43:36] INFO     - 
+ Skipping Ajinkya Rahane as points is zero.
+[2026-04-17 23:43:36] DEBUG    - ===============================================================
+[2026-04-17 23:43:36] INFO     - Processing count for KKR = 4
+[2026-04-17 23:43:36] INFO     - Processing bowler of KKR : 'Cameron Green' | 7 dot balls
+[2026-04-17 23:43:36] DEBUG    - Match found for Cameron Green in Bowler at row 47
+[2026-04-17 23:43:36] INFO     - No update needed for Cameron Green in Bowler as points are unchanged.
+[2026-04-17 23:43:36] DEBUG    - ===============================================================
+[2026-04-17 23:43:36] INFO     - Processing count for KKR = 5
+[2026-04-17 23:43:36] INFO     - Processing bowler of KKR : 'Varun Chakaravarthy' | 17 dot balls
+[2026-04-17 23:43:36] DEBUG    - Match found for Varun Chakaravarthy in Bowler at row 48
+[2026-04-17 23:43:37] INFO     - Data updated successfully for Varun Chakaravarthy in Bowler - 17 Dot Balls!
+[2026-04-17 23:43:37] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:40] DEBUG    - ===============================================================
+[2026-04-17 23:43:40] INFO     - Processing count for KKR = 6
+[2026-04-17 23:43:40] INFO     - 
+ Skipping Finn Allen as points is zero.
+[2026-04-17 23:43:40] DEBUG    - ===============================================================
+[2026-04-17 23:43:40] INFO     - Processing count for KKR = 7
+[2026-04-17 23:43:40] INFO     - Processing bowler of KKR : 'Vaibhav Arora' | 43 dot balls
+[2026-04-17 23:43:40] DEBUG    - Match found for Vaibhav Arora in Bowler at row 66
+[2026-04-17 23:43:41] INFO     - Data updated successfully for Vaibhav Arora in Bowler - 43 Dot Balls!
+[2026-04-17 23:43:41] DEBUG    - Sleeping 3s before next update.
+[2026-04-17 23:43:44] DEBUG    - ===============================================================
+[2026-04-17 23:43:44] INFO     - Processing count for KKR = 8
+[2026-04-17 23:43:44] INFO     - 
+ Skipping Angkrish Raghuvanshi as points is zero.
+[2026-04-17 23:43:44] DEBUG    - ===============================================================
+[2026-04-17 23:43:44] INFO     - Processing count for KKR = 9
+[2026-04-17 23:43:44] INFO     - 
+ Skipping Rinku Singh as points is zero.
+[2026-04-17 23:43:44] DEBUG    - ===============================================================
+[2026-04-17 23:43:44] DEBUG    - ===============================================================
+[2026-04-17 23:43:49] INFO     - Worksheets opened: ['GT', 'KKR', 'MI', 'CSK', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-17 23:43:50] INFO     - Points Gained Today fetched: {'HW': 235, 'MC': 81, 'OL': 159, 'AS': 33, 'PA': 96}
+[2026-04-17 23:43:50] INFO     - Writing to column 6 (17/04)
+[2026-04-17 23:43:50] DEBUG    -   HW → F2 = 235
+[2026-04-17 23:43:50] DEBUG    -   MC → F3 = 81
+[2026-04-17 23:43:50] DEBUG    -   OL → F4 = 159
+[2026-04-17 23:43:50] DEBUG    -   AS → F5 = 33
+[2026-04-17 23:43:50] DEBUG    -   PA → F6 = 96
+[2026-04-17 23:43:51] INFO     - Successfully updated 5 team(s) for 17/04.
+[2026-04-17 23:43:51] INFO     - TOP 12 points fetched: {'PA': 2906, 'AS': 2547, 'HW': 2725, 'OL': 2549, 'MC': 2441}
+[2026-04-17 23:43:52] INFO     - Column mapping: {'HW': 2, 'MC': 3, 'OL': 4, 'AS': 5, 'PA': 6}
+[2026-04-17 23:43:52] INFO     - Today '17/04' found at row 29
+[2026-04-17 23:43:52] DEBUG    -   PA → F29 = 2906
+[2026-04-17 23:43:52] DEBUG    -   AS → E29 = 2547
+[2026-04-17 23:43:52] DEBUG    -   HW → B29 = 2725
+[2026-04-17 23:43:52] DEBUG    -   OL → D29 = 2549
+[2026-04-17 23:43:52] DEBUG    -   MC → C29 = 2441
+[2026-04-17 23:43:53] INFO     - Successfully updated 5 team(s) for '17/04' at row 29.
+[2026-04-17 23:43:54] INFO     - ═════════════════════ All updates completed ═════════════════════

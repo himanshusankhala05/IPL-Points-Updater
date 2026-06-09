@@ -1,0 +1,1115 @@
+[2026-04-19 00:58:13] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-19 00:58:13] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-19 00:58:13] INFO     - Google Sheets authentication successful.
+[2026-04-19 00:58:17] INFO     - Worksheets opened: ['Points', 'Home', 'Data', 'Bowler']
+[2026-04-19 00:58:21] DEBUG    - ===============================================================
+[2026-04-19 00:58:21] DEBUG    - ===============================================================
+[2026-04-19 00:58:21] INFO     - Processing count= 1
+[2026-04-19 00:58:21] INFO     - Processing player of 337 : 'Heinrich Klaasen' | 438 points | team: 337
+[2026-04-19 00:58:21] DEBUG    - Match found for Heinrich Klaasen in Points at row 75
+[2026-04-19 00:58:22] INFO     - Data updated successfully for Heinrich Klaasen in Points - 438 points!
+[2026-04-19 00:58:22] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:26] DEBUG    - ===============================================================
+[2026-04-19 00:58:26] INFO     - Processing count= 2
+[2026-04-19 00:58:26] INFO     - Processing player of 394 : 'Rajat Patidar' | 394 points | team: 394
+[2026-04-19 00:58:26] DEBUG    - Match found for Rajat Patidar in Points at row 53
+[2026-04-19 00:58:26] INFO     - No update needed for Rajat Patidar in Points as points are unchanged.
+[2026-04-19 00:58:26] DEBUG    - ===============================================================
+[2026-04-19 00:58:26] INFO     - Processing count= 3
+[2026-04-19 00:58:26] INFO     - Processing player of 393 : 'Virat Kohli' | 393 points | team: 393
+[2026-04-19 00:58:26] DEBUG    - Match found for Virat Kohli in Points at row 72
+[2026-04-19 00:58:26] INFO     - No update needed for Virat Kohli in Points as points are unchanged.
+[2026-04-19 00:58:26] DEBUG    - ===============================================================
+[2026-04-19 00:58:26] INFO     - Processing count= 4
+[2026-04-19 00:58:26] INFO     - Processing player of 393 : 'Shubman Gill' | 393 points | team: 393
+[2026-04-19 00:58:26] DEBUG    - Match found for Shubman Gill in Points at row 85
+[2026-04-19 00:58:26] INFO     - No update needed for Shubman Gill in Points as points are unchanged.
+[2026-04-19 00:58:26] DEBUG    - ===============================================================
+[2026-04-19 00:58:26] INFO     - Processing count= 5
+[2026-04-19 00:58:26] INFO     - Processing player of 389 : 'Jos Buttler' | 389 points | team: 389
+[2026-04-19 00:58:26] DEBUG    - Match found for Jos Buttler in Points at row 64
+[2026-04-19 00:58:26] INFO     - No update needed for Jos Buttler in Points as points are unchanged.
+[2026-04-19 00:58:26] DEBUG    - ===============================================================
+[2026-04-19 00:58:26] INFO     - Processing count= 6
+[2026-04-19 00:58:26] INFO     - Processing player of 367 : 'Ishan Kishan' | 369 points | team: 367
+[2026-04-19 00:58:26] DEBUG    - Match found for Ishan Kishan in Points at row 18
+[2026-04-19 00:58:27] INFO     - Data updated successfully for Ishan Kishan in Points - 369 points!
+[2026-04-19 00:58:27] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:31] DEBUG    - ===============================================================
+[2026-04-19 00:58:31] INFO     - Processing count= 7
+[2026-04-19 00:58:31] INFO     - Processing player of 277 : 'Nitish Kumar Reddy' | 353 points | team: 277
+[2026-04-19 00:58:31] DEBUG    - Match found for Nitish Kumar Reddy in Points at row 56
+[2026-04-19 00:58:32] INFO     - Data updated successfully for Nitish Kumar Reddy in Points - 353 points!
+[2026-04-19 00:58:32] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 8
+[2026-04-19 00:58:36] INFO     - Processing player of 348 : 'Phil Salt' | 348 points | team: 348
+[2026-04-19 00:58:36] DEBUG    - Match found for Phil Salt in Points at row 35
+[2026-04-19 00:58:36] INFO     - No update needed for Phil Salt in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 9
+[2026-04-19 00:58:36] INFO     - Processing player of 345 : 'Prabhsimran Singh' | 345 points | team: 345
+[2026-04-19 00:58:36] DEBUG    - Match found for Prabhsimran Singh in Points at row 91
+[2026-04-19 00:58:36] INFO     - No update needed for Prabhsimran Singh in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 10
+[2026-04-19 00:58:36] INFO     - Processing player of 325 : 'Bhuvneshwar Kumar' | 325 points | team: 325
+[2026-04-19 00:58:36] DEBUG    - Match found for Bhuvneshwar Kumar in Points at row 36
+[2026-04-19 00:58:36] INFO     - No update needed for Bhuvneshwar Kumar in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 11
+[2026-04-19 00:58:36] INFO     - Processing player of 320 : 'Vaibhav Sooryavanshi' | 320 points | team: 320
+[2026-04-19 00:58:36] DEBUG    - Match found for Vaibhav Sooryavanshi in Points at row 15
+[2026-04-19 00:58:36] INFO     - No update needed for Vaibhav Sooryavanshi in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 12
+[2026-04-19 00:58:36] INFO     - Processing player of 319 : 'Shreyas Iyer' | 319 points | team: 319
+[2026-04-19 00:58:36] DEBUG    - Match found for Shreyas Iyer in Points at row 70
+[2026-04-19 00:58:36] INFO     - No update needed for Shreyas Iyer in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 13
+[2026-04-19 00:58:36] INFO     - Processing player of 313 : 'Prasidh Krishna' | 313 points | team: 313
+[2026-04-19 00:58:36] DEBUG    - Match found for Prasidh Krishna in Points at row 65
+[2026-04-19 00:58:36] INFO     - No update needed for Prasidh Krishna in Points as points are unchanged.
+[2026-04-19 00:58:36] DEBUG    - ===============================================================
+[2026-04-19 00:58:36] INFO     - Processing count= 14
+[2026-04-19 00:58:36] INFO     - Processing player of 260 : 'Ayush Mhatre' | 311 points | team: 260
+[2026-04-19 00:58:36] DEBUG    - Match found for Ayush Mhatre in Points at row 24
+[2026-04-19 00:58:38] INFO     - Data updated successfully for Ayush Mhatre in Points - 311 points!
+[2026-04-19 00:58:38] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:42] DEBUG    - ===============================================================
+[2026-04-19 00:58:42] INFO     - Processing count= 15
+[2026-04-19 00:58:42] INFO     - Processing player of 212 : 'Abhishek Sharma' | 303 points | team: 212
+[2026-04-19 00:58:42] DEBUG    - Match found for Abhishek Sharma in Points at row 17
+[2026-04-19 00:58:43] INFO     - Data updated successfully for Abhishek Sharma in Points - 303 points!
+[2026-04-19 00:58:43] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:47] DEBUG    - ===============================================================
+[2026-04-19 00:58:47] INFO     - Processing count= 16
+[2026-04-19 00:58:47] INFO     - Processing player of 294 : 'Angkrish Raghuvanshi' | 294 points | team: 294
+[2026-04-19 00:58:47] DEBUG    - Match found for Angkrish Raghuvanshi in Points at row 87
+[2026-04-19 00:58:47] INFO     - No update needed for Angkrish Raghuvanshi in Points as points are unchanged.
+[2026-04-19 00:58:47] DEBUG    - ===============================================================
+[2026-04-19 00:58:47] INFO     - Processing count= 17
+[2026-04-19 00:58:47] INFO     - Processing player of 272 : 'Sanju Samson' | 293 points | team: 272
+[2026-04-19 00:58:47] DEBUG    - Match found for Sanju Samson in Points at row 6
+[2026-04-19 00:58:47] INFO     - Data updated successfully for Sanju Samson in Points - 293 points!
+[2026-04-19 00:58:47] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 18
+[2026-04-19 00:58:51] INFO     - Processing player of 290 : 'Devdutt Padikkal' | 290 points | team: 290
+[2026-04-19 00:58:51] DEBUG    - Match found for Devdutt Padikkal in Points at row 71
+[2026-04-19 00:58:51] INFO     - No update needed for Devdutt Padikkal in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 19
+[2026-04-19 00:58:51] INFO     - Processing player of 289 : 'Yashasvi Jaiswal' | 289 points | team: 289
+[2026-04-19 00:58:51] DEBUG    - Match found for Yashasvi Jaiswal in Points at row 54
+[2026-04-19 00:58:51] INFO     - No update needed for Yashasvi Jaiswal in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 20
+[2026-04-19 00:58:51] INFO     - Processing player of 285 : 'Ravi Bishnoi' | 285 points | team: 285
+[2026-04-19 00:58:51] DEBUG    - Match found for Ravi Bishnoi in Points at row 16
+[2026-04-19 00:58:51] INFO     - No update needed for Ravi Bishnoi in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 21
+[2026-04-19 00:58:51] INFO     - Processing player of 277 : 'Tim David' | 277 points | team: 277
+[2026-04-19 00:58:51] DEBUG    - Match found for Tim David in Points at row 102
+[2026-04-19 00:58:51] INFO     - No update needed for Tim David in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 22
+[2026-04-19 00:58:51] INFO     - Processing player of 273 : 'KL Rahul' | 273 points | team: 273
+[2026-04-19 00:58:51] DEBUG    - Match found for KL Rahul in Points at row 45
+[2026-04-19 00:58:51] INFO     - No update needed for KL Rahul in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 23
+[2026-04-19 00:58:51] INFO     - Processing player of 266 : 'Tristan Stubbs' | 266 points | team: 266
+[2026-04-19 00:58:51] DEBUG    - Match found for Tristan Stubbs in Points at row 83
+[2026-04-19 00:58:51] INFO     - No update needed for Tristan Stubbs in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 24
+[2026-04-19 00:58:51] INFO     - Processing player of 247 : 'Krunal Pandya' | 247 points | team: 247
+[2026-04-19 00:58:51] DEBUG    - Match found for Krunal Pandya in Points at row 52
+[2026-04-19 00:58:51] INFO     - No update needed for Krunal Pandya in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 25
+[2026-04-19 00:58:51] INFO     - Processing player of 244 : 'Jofra Archer' | 244 points | team: 244
+[2026-04-19 00:58:51] DEBUG    - Match found for Jofra Archer in Points at row 94
+[2026-04-19 00:58:51] INFO     - No update needed for Jofra Archer in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 26
+[2026-04-19 00:58:51] INFO     - Processing player of 240 : 'Cameron Green' | 240 points | team: 240
+[2026-04-19 00:58:51] DEBUG    - Match found for Cameron Green in Points at row 47
+[2026-04-19 00:58:51] INFO     - No update needed for Cameron Green in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 27
+[2026-04-19 00:58:51] INFO     - Processing player of 231 : 'Kagiso Rabada' | 231 points | team: 231
+[2026-04-19 00:58:51] DEBUG    - Match found for Kagiso Rabada in Points at row 97
+[2026-04-19 00:58:51] INFO     - No update needed for Kagiso Rabada in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 28
+[2026-04-19 00:58:51] INFO     - Processing player of 230 : 'Ajinkya Rahane' | 230 points | team: 230
+[2026-04-19 00:58:51] DEBUG    - Match found for Ajinkya Rahane in Points at row 29
+[2026-04-19 00:58:51] INFO     - No update needed for Ajinkya Rahane in Points as points are unchanged.
+[2026-04-19 00:58:51] DEBUG    - ===============================================================
+[2026-04-19 00:58:51] INFO     - Processing count= 29
+[2026-04-19 00:58:51] INFO     - Processing player of 199 : 'Shivam Dube' | 229 points | team: 199
+[2026-04-19 00:58:51] DEBUG    - Match found for Shivam Dube in Points at row 5
+[2026-04-19 00:58:52] INFO     - Data updated successfully for Shivam Dube in Points - 229 points!
+[2026-04-19 00:58:52] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:58:56] DEBUG    - ===============================================================
+[2026-04-19 00:58:56] INFO     - Processing count= 30
+[2026-04-19 00:58:56] INFO     - Processing player of 221 : 'Rashid Khan' | 221 points | team: 221
+[2026-04-19 00:58:56] DEBUG    - Match found for Rashid Khan in Points at row 46
+[2026-04-19 00:58:56] INFO     - No update needed for Rashid Khan in Points as points are unchanged.
+[2026-04-19 00:58:56] DEBUG    - ===============================================================
+[2026-04-19 00:58:56] INFO     - Processing count= 31
+[2026-04-19 00:58:56] INFO     - Processing player of 221 : 'Cooper Connolly' | 221 points | team: 221
+[2026-04-19 00:58:56] DEBUG    - Match found for Cooper Connolly in Points at row 103
+[2026-04-19 00:58:56] INFO     - No update needed for Cooper Connolly in Points as points are unchanged.
+[2026-04-19 00:58:56] DEBUG    - ===============================================================
+[2026-04-19 00:58:56] INFO     - Processing count= 32
+[2026-04-19 00:58:56] INFO     - Processing player of 216 : 'Sai Sudharsan' | 216 points | team: 216
+[2026-04-19 00:58:56] DEBUG    - Match found for Sai Sudharsan in Points at row 7
+[2026-04-19 00:58:56] INFO     - No update needed for Sai Sudharsan in Points as points are unchanged.
+[2026-04-19 00:58:56] DEBUG    - ===============================================================
+[2026-04-19 00:58:56] INFO     - Processing count= 33
+[2026-04-19 00:58:56] INFO     - Processing player of 183 : 'Travis Head' | 215 points | team: 183
+[2026-04-19 00:58:56] DEBUG    - Match found for Travis Head in Points at row 55
+[2026-04-19 00:58:57] INFO     - Data updated successfully for Travis Head in Points - 215 points!
+[2026-04-19 00:58:57] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 34
+[2026-04-19 00:59:01] INFO     - Processing player of 206 : 'Aiden Markram' | 206 points | team: 206
+[2026-04-19 00:59:01] DEBUG    - Match found for Aiden Markram in Points at row 67
+[2026-04-19 00:59:01] INFO     - No update needed for Aiden Markram in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 35
+[2026-04-19 00:59:01] INFO     - Processing player of 204 : 'Rohit Sharma' | 204 points | team: 204
+[2026-04-19 00:59:01] DEBUG    - Match found for Rohit Sharma in Points at row 33
+[2026-04-19 00:59:01] INFO     - No update needed for Rohit Sharma in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 36
+[2026-04-19 00:59:01] INFO     - Processing player of 202 : 'Ravindra Jadeja' | 202 points | team: 202
+[2026-04-19 00:59:01] DEBUG    - Match found for Ravindra Jadeja in Points at row 95
+[2026-04-19 00:59:01] INFO     - No update needed for Ravindra Jadeja in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 37
+[2026-04-19 00:59:01] INFO     - Processing player of 201 : 'Axar Patel' | 201 points | team: 201
+[2026-04-19 00:59:01] DEBUG    - Match found for Axar Patel in Points at row 43
+[2026-04-19 00:59:01] INFO     - No update needed for Axar Patel in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 38
+[2026-04-19 00:59:01] INFO     - Processing player of 200 : 'Vaibhav Arora' | 200 points | team: 200
+[2026-04-19 00:59:01] DEBUG    - Match found for Vaibhav Arora in Points at row 66
+[2026-04-19 00:59:01] INFO     - No update needed for Vaibhav Arora in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 39
+[2026-04-19 00:59:01] INFO     - Processing player of 197 : 'Rishabh Pant' | 197 points | team: 197
+[2026-04-19 00:59:01] DEBUG    - Match found for Rishabh Pant in Points at row 50
+[2026-04-19 00:59:01] INFO     - No update needed for Rishabh Pant in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 40
+[2026-04-19 00:59:01] INFO     - Processing player of 190 : 'Priyansh Arya' | 190 points | team: 190
+[2026-04-19 00:59:01] DEBUG    - Match found for Priyansh Arya in Points at row 34
+[2026-04-19 00:59:01] INFO     - No update needed for Priyansh Arya in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 41
+[2026-04-19 00:59:01] INFO     - Processing player of 182 : 'Sunil Narine' | 182 points | team: 182
+[2026-04-19 00:59:01] DEBUG    - Match found for Sunil Narine in Points at row 28
+[2026-04-19 00:59:01] INFO     - No update needed for Sunil Narine in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 42
+[2026-04-19 00:59:01] INFO     - Processing player of 182 : 'David Miller' | 182 points | team: 182
+[2026-04-19 00:59:01] DEBUG    - Match found for David Miller in Points at row 107
+[2026-04-19 00:59:01] INFO     - No update needed for David Miller in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 43
+[2026-04-19 00:59:01] INFO     - Processing player of 180 : 'Hardik Pandya' | 180 points | team: 180
+[2026-04-19 00:59:01] DEBUG    - Match found for Hardik Pandya in Points at row 31
+[2026-04-19 00:59:01] INFO     - No update needed for Hardik Pandya in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 44
+[2026-04-19 00:59:01] INFO     - Processing player of 176 : 'Naman Dhir' | 176 points | team: 176
+[2026-04-19 00:59:01] DEBUG    - Match found for Naman Dhir in Points at row 57
+[2026-04-19 00:59:01] INFO     - No update needed for Naman Dhir in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 45
+[2026-04-19 00:59:01] INFO     - Processing player of 175 : 'Arshdeep Singh' | 175 points | team: 175
+[2026-04-19 00:59:01] DEBUG    - Match found for Arshdeep Singh in Points at row 51
+[2026-04-19 00:59:01] INFO     - No update needed for Arshdeep Singh in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 46
+[2026-04-19 00:59:01] INFO     - Processing player of 172 : 'Kuldeep Yadav' | 172 points | team: 172
+[2026-04-19 00:59:01] DEBUG    - Match found for Kuldeep Yadav in Points at row 84
+[2026-04-19 00:59:01] INFO     - No update needed for Kuldeep Yadav in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 47
+[2026-04-19 00:59:01] INFO     - Processing player of 170 : 'Ayush Badoni' | 170 points | team: 170
+[2026-04-19 00:59:01] DEBUG    - Match found for Ayush Badoni in Points at row 30
+[2026-04-19 00:59:01] INFO     - No update needed for Ayush Badoni in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 48
+[2026-04-19 00:59:01] INFO     - Processing player of 169 : 'Rasikh Salam' | 169 points | team: 169
+[2026-04-19 00:59:01] DEBUG    - Match found for Rasikh Salam in Points at row 20
+[2026-04-19 00:59:01] INFO     - No update needed for Rasikh Salam in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 49
+[2026-04-19 00:59:01] INFO     - Processing player of 168 : 'Mitchell Marsh' | 168 points | team: 168
+[2026-04-19 00:59:01] DEBUG    - Match found for Mitchell Marsh in Points at row 88
+[2026-04-19 00:59:01] INFO     - No update needed for Mitchell Marsh in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 50
+[2026-04-19 00:59:01] INFO     - Processing player of 168 : 'Quinton de Kock' | 168 points | team: 168
+[2026-04-19 00:59:01] DEBUG    - Match found for Quinton de Kock in Points at row 10
+[2026-04-19 00:59:01] INFO     - No update needed for Quinton de Kock in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 51
+[2026-04-19 00:59:01] INFO     - Processing player of 167 : 'Suryakumar Yadav' | 167 points | team: 167
+[2026-04-19 00:59:01] DEBUG    - Match found for Suryakumar Yadav in Points at row 32
+[2026-04-19 00:59:01] INFO     - No update needed for Suryakumar Yadav in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 52
+[2026-04-19 00:59:01] INFO     - Processing player of 167 : 'Mohammed Siraj' | 167 points | team: 167
+[2026-04-19 00:59:01] DEBUG    - Match found for Mohammed Siraj in Points at row 86
+[2026-04-19 00:59:01] INFO     - No update needed for Mohammed Siraj in Points as points are unchanged.
+[2026-04-19 00:59:01] DEBUG    - ===============================================================
+[2026-04-19 00:59:01] INFO     - Processing count= 53
+[2026-04-19 00:59:01] INFO     - Processing player of 153 : 'Noor Ahmad' | 166 points | team: 153
+[2026-04-19 00:59:01] DEBUG    - Match found for Noor Ahmad in Points at row 62
+[2026-04-19 00:59:02] INFO     - Data updated successfully for Noor Ahmad in Points - 166 points!
+[2026-04-19 00:59:02] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 54
+[2026-04-19 00:59:06] INFO     - Processing player of 163 : 'Rinku Singh' | 163 points | team: 163
+[2026-04-19 00:59:06] DEBUG    - Match found for Rinku Singh in Points at row 98
+[2026-04-19 00:59:06] INFO     - No update needed for Rinku Singh in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 55
+[2026-04-19 00:59:06] INFO     - Processing player of 163 : 'Sandeep Sharma' | 163 points | team: 163
+[2026-04-19 00:59:06] DEBUG    - Match found for Sandeep Sharma in Points at row 39
+[2026-04-19 00:59:06] INFO     - No update needed for Sandeep Sharma in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 56
+[2026-04-19 00:59:06] INFO     - Processing player of 159 : 'Shardul Thakur' | 159 points | team: 159
+[2026-04-19 00:59:06] DEBUG    - Match found for Shardul Thakur in Points at row 80
+[2026-04-19 00:59:06] INFO     - No update needed for Shardul Thakur in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 57
+[2026-04-19 00:59:06] INFO     - Processing player of 157 : 'Romario Shepherd' | 157 points | team: 157
+[2026-04-19 00:59:06] DEBUG    - Match found for Romario Shepherd in Points at row 14
+[2026-04-19 00:59:06] INFO     - No update needed for Romario Shepherd in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 58
+[2026-04-19 00:59:06] INFO     - Processing player of 151 : 'Mohammad Shami' | 151 points | team: 151
+[2026-04-19 00:59:06] DEBUG    - Match found for Mohammad Shami in Points at row 96
+[2026-04-19 00:59:06] INFO     - No update needed for Mohammad Shami in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 59
+[2026-04-19 00:59:06] INFO     - Processing player of 149 : 'Vijaykumar Vyshak' | 149 points | team: 149
+[2026-04-19 00:59:06] DEBUG    - Match found for Vijaykumar Vyshak in Points at row 105
+[2026-04-19 00:59:06] INFO     - No update needed for Vijaykumar Vyshak in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 60
+[2026-04-19 00:59:06] INFO     - Processing player of 147 : 'Glenn Phillips' | 147 points | team: 147
+[2026-04-19 00:59:06] DEBUG    - Match found for Glenn Phillips in Points at row 27
+[2026-04-19 00:59:06] INFO     - No update needed for Glenn Phillips in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 61
+[2026-04-19 00:59:06] INFO     - Processing player of 144 : 'Shashank Singh' | 144 points | team: 144
+[2026-04-19 00:59:06] DEBUG    - Match found for Shashank Singh in Points at row 92
+[2026-04-19 00:59:06] INFO     - No update needed for Shashank Singh in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 62
+[2026-04-19 00:59:06] INFO     - Processing player of 144 : 'Riyan Parag' | 144 points | team: 144
+[2026-04-19 00:59:06] DEBUG    - Match found for Riyan Parag in Points at row 73
+[2026-04-19 00:59:06] INFO     - No update needed for Riyan Parag in Points as points are unchanged.
+[2026-04-19 00:59:06] DEBUG    - ===============================================================
+[2026-04-19 00:59:06] INFO     - Processing count= 63
+[2026-04-19 00:59:06] INFO     - Processing player of 100 : 'Ruturaj Gaikwad' | 144 points | team: 100
+[2026-04-19 00:59:06] DEBUG    - Match found for Ruturaj Gaikwad in Points at row 42
+[2026-04-19 00:59:07] INFO     - Data updated successfully for Ruturaj Gaikwad in Points - 144 points!
+[2026-04-19 00:59:07] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 64
+[2026-04-19 00:59:11] INFO     - Processing player of 140 : 'Jitesh Sharma' | 140 points | team: 140
+[2026-04-19 00:59:11] DEBUG    - Match found for Jitesh Sharma in Points at row 93
+[2026-04-19 00:59:11] INFO     - No update needed for Jitesh Sharma in Points as points are unchanged.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 65
+[2026-04-19 00:59:11] INFO     - Processing player of 138 : 'Finn Allen' | 138 points | team: 138
+[2026-04-19 00:59:11] DEBUG    - Match found for Finn Allen in Points at row 58
+[2026-04-19 00:59:11] INFO     - No update needed for Finn Allen in Points as points are unchanged.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 66
+[2026-04-19 00:59:11] INFO     - Processing player of 130 : 'Marco Jansen' | 130 points | team: 130
+[2026-04-19 00:59:11] DEBUG    - Match found for Marco Jansen in Points at row 40
+[2026-04-19 00:59:11] INFO     - No update needed for Marco Jansen in Points as points are unchanged.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 67
+[2026-04-19 00:59:11] INFO     - Processing player of 121 : 'Tilak Varma' | 121 points | team: 121
+[2026-04-19 00:59:11] DEBUG    - Match found for Tilak Varma in Points at row 9
+[2026-04-19 00:59:11] INFO     - No update needed for Tilak Varma in Points as points are unchanged.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 68
+[2026-04-19 00:59:11] INFO     - Processing player of 118 : 'Suyash Sharma' | 118 points | team: 118
+[2026-04-19 00:59:11] DEBUG    - Match found for Suyash Sharma in Points at row 106
+[2026-04-19 00:59:11] INFO     - No update needed for Suyash Sharma in Points as points are unchanged.
+[2026-04-19 00:59:11] DEBUG    - ===============================================================
+[2026-04-19 00:59:11] INFO     - Processing count= 69
+[2026-04-19 00:59:11] INFO     - Processing player of 99 : 'Dewald Brevis' | 117 points | team: 99
+[2026-04-19 00:59:11] DEBUG    - Match found for Dewald Brevis in Points at row 61
+[2026-04-19 00:59:11] INFO     - Data updated successfully for Dewald Brevis in Points - 117 points!
+[2026-04-19 00:59:11] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 70
+[2026-04-19 00:59:15] INFO     - Processing player of 103 : 'Josh Hazlewood' | 103 points | team: 103
+[2026-04-19 00:59:15] DEBUG    - Match found for Josh Hazlewood in Points at row 37
+[2026-04-19 00:59:15] INFO     - No update needed for Josh Hazlewood in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 71
+[2026-04-19 00:59:15] INFO     - Processing player of 101 : 'Yuzvendra Chahal' | 101 points | team: 101
+[2026-04-19 00:59:15] DEBUG    - Match found for Yuzvendra Chahal in Points at row 13
+[2026-04-19 00:59:15] INFO     - No update needed for Yuzvendra Chahal in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 72
+[2026-04-19 00:59:15] INFO     - Processing player of 99 : 'Digvesh Singh' | 99 points | team: 99
+[2026-04-19 00:59:15] DEBUG    - Match found for Digvesh Singh in Points at row 49
+[2026-04-19 00:59:15] INFO     - No update needed for Digvesh Singh in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 73
+[2026-04-19 00:59:15] INFO     - Processing player of 93 : 'Shimron Hetmyer' | 93 points | team: 93
+[2026-04-19 00:59:15] DEBUG    - Match found for Shimron Hetmyer in Points at row 38
+[2026-04-19 00:59:15] INFO     - No update needed for Shimron Hetmyer in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 74
+[2026-04-19 00:59:15] INFO     - Processing player of 82 : 'Rahul Tewatia' | 82 points | team: 82
+[2026-04-19 00:59:15] DEBUG    - Match found for Rahul Tewatia in Points at row 59
+[2026-04-19 00:59:15] INFO     - No update needed for Rahul Tewatia in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 75
+[2026-04-19 00:59:15] INFO     - Processing player of 77 : 'Nicholas Pooran' | 77 points | team: 77
+[2026-04-19 00:59:15] DEBUG    - Match found for Nicholas Pooran in Points at row 89
+[2026-04-19 00:59:15] INFO     - No update needed for Nicholas Pooran in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 76
+[2026-04-19 00:59:15] INFO     - Processing player of 72 : 'Prashant Veer' | 72 points | team: 72
+[2026-04-19 00:59:15] DEBUG    - Match found for Prashant Veer in Points at row 41
+[2026-04-19 00:59:15] INFO     - No update needed for Prashant Veer in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 77
+[2026-04-19 00:59:15] INFO     - Processing player of 70 : 'Varun Chakaravarthy' | 70 points | team: 70
+[2026-04-19 00:59:15] DEBUG    - Match found for Varun Chakaravarthy in Points at row 48
+[2026-04-19 00:59:15] INFO     - No update needed for Varun Chakaravarthy in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 78
+[2026-04-19 00:59:15] INFO     - Processing player of 70 : 'Khaleel Ahmed' | 70 points | team: 70
+[2026-04-19 00:59:15] DEBUG    - Match found for Khaleel Ahmed in Points at row 82
+[2026-04-19 00:59:15] INFO     - No update needed for Khaleel Ahmed in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 79
+[2026-04-19 00:59:15] INFO     - Processing player of 63 : 'Nehal Wadhera' | 63 points | team: 63
+[2026-04-19 00:59:15] DEBUG    - Match found for Nehal Wadhera in Points at row 69
+[2026-04-19 00:59:15] INFO     - No update needed for Nehal Wadhera in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 80
+[2026-04-19 00:59:15] INFO     - Processing player of 59 : 'Nitish Rana' | 59 points | team: 59
+[2026-04-19 00:59:15] DEBUG    - Match found for Nitish Rana in Points at row 76
+[2026-04-19 00:59:15] INFO     - No update needed for Nitish Rana in Points as points are unchanged.
+[2026-04-19 00:59:15] DEBUG    - ===============================================================
+[2026-04-19 00:59:15] INFO     - Processing count= 81
+[2026-04-19 00:59:15] INFO     - Processing player of 36 : 'Liam Livingstone' | 57 points | team: 36
+[2026-04-19 00:59:15] DEBUG    - Match found for Liam Livingstone in Points at row 104
+[2026-04-19 00:59:16] INFO     - Data updated successfully for Liam Livingstone in Points - 57 points!
+[2026-04-19 00:59:16] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 82
+[2026-04-19 00:59:20] INFO     - Processing player of 55 : 'Mohsin Khan' | 55 points | team: 55
+[2026-04-19 00:59:20] DEBUG    - Match found for Mohsin Khan in Points at row 8
+[2026-04-19 00:59:20] INFO     - No update needed for Mohsin Khan in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 83
+[2026-04-19 00:59:20] INFO     - Processing player of 47 : 'Marcus Stoinis' | 47 points | team: 47
+[2026-04-19 00:59:20] DEBUG    - Match found for Marcus Stoinis in Points at row 90
+[2026-04-19 00:59:20] INFO     - No update needed for Marcus Stoinis in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 84
+[2026-04-19 00:59:20] INFO     - Processing player of 44 : 'Venkatesh Iyer' | 44 points | team: 44
+[2026-04-19 00:59:20] DEBUG    - Match found for Venkatesh Iyer in Points at row 78
+[2026-04-19 00:59:20] INFO     - No update needed for Venkatesh Iyer in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 85
+[2026-04-19 00:59:20] INFO     - Processing player of 41 : 'Kartik Sharma' | 41 points | team: 41
+[2026-04-19 00:59:20] DEBUG    - Match found for Kartik Sharma in Points at row 99
+[2026-04-19 00:59:20] INFO     - No update needed for Kartik Sharma in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 86
+[2026-04-19 00:59:20] INFO     - Processing player of 40 : 'Trent Boult' | 40 points | team: 40
+[2026-04-19 00:59:20] DEBUG    - Match found for Trent Boult in Points at row 77
+[2026-04-19 00:59:20] INFO     - No update needed for Trent Boult in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 87
+[2026-04-19 00:59:20] INFO     - Processing player of 38 : 'Jasprit Bumrah' | 38 points | team: 38
+[2026-04-19 00:59:20] DEBUG    - Match found for Jasprit Bumrah in Points at row 11
+[2026-04-19 00:59:20] INFO     - No update needed for Jasprit Bumrah in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 88
+[2026-04-19 00:59:20] INFO     - Processing player of 36 : 'Corbin Bosch' | 36 points | team: 36
+[2026-04-19 00:59:20] DEBUG    - Match found for Corbin Bosch in Points at row 101
+[2026-04-19 00:59:20] INFO     - No update needed for Corbin Bosch in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 89
+[2026-04-19 00:59:20] INFO     - Processing player of 34 : 'Ashutosh Sharma' | 34 points | team: 34
+[2026-04-19 00:59:20] DEBUG    - Match found for Ashutosh Sharma in Points at row 100
+[2026-04-19 00:59:20] INFO     - No update needed for Ashutosh Sharma in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 90
+[2026-04-19 00:59:20] INFO     - Processing player of 9 : 'Harshal Patel' | 9 points | team: 9
+[2026-04-19 00:59:20] DEBUG    - Match found for Harshal Patel in Points at row 74
+[2026-04-19 00:59:20] INFO     - No update needed for Harshal Patel in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 91
+[2026-04-19 00:59:20] INFO     - Processing player of 8 : 'Rahul Chahar' | 8 points | team: 8
+[2026-04-19 00:59:20] DEBUG    - Match found for Rahul Chahar in Points at row 81
+[2026-04-19 00:59:20] INFO     - No update needed for Rahul Chahar in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 92
+[2026-04-19 00:59:20] INFO     - Processing player of 7 : 'Auqib Nabi' | 7 points | team: 7
+[2026-04-19 00:59:20] DEBUG    - Match found for Auqib Nabi in Points at row 63
+[2026-04-19 00:59:20] INFO     - No update needed for Auqib Nabi in Points as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 93
+[2026-04-19 00:59:20] INFO     - 
+Skipping Mitchell Starc as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 94
+[2026-04-19 00:59:20] INFO     - 
+Skipping Pat Cummins as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 95
+[2026-04-19 00:59:20] INFO     - 
+Skipping Matheesha Pathirana as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 96
+[2026-04-19 00:59:20] INFO     - 
+Skipping Will Jacks as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 97
+[2026-04-19 00:59:20] INFO     - 
+Skipping Harpreet Brar as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 98
+[2026-04-19 00:59:20] INFO     - 
+Skipping Abishek Porel as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 99
+[2026-04-19 00:59:20] INFO     - 
+Skipping MS Dhoni as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 100
+[2026-04-19 00:59:20] INFO     - 
+Skipping Jason Holder as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 101
+[2026-04-19 00:59:20] INFO     - 
+Skipping Yash Dayal as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 102
+[2026-04-19 00:59:20] INFO     - 
+Skipping Yudhvir Singh as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 103
+[2026-04-19 00:59:20] INFO     - 
+Skipping Nathan Ellis as points is zero.
+[2026-04-19 00:59:20] INFO     - Total players processed for team '337': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '394': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '393': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '389': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '367': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '277': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '348': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '345': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '325': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '320': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '319': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '313': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '260': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '212': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '294': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '272': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '290': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '289': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '285': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '273': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '266': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '247': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '244': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '240': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '231': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '230': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '199': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '221': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '216': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '183': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '206': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '204': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '202': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '201': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '200': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '197': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '190': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '182': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '180': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '176': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '175': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '172': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '170': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '169': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '168': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '167': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '153': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '163': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '159': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '157': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '151': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '149': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '147': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '144': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '100': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '140': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '138': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '130': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '121': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '118': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '99': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '103': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '101': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '93': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '82': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '77': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '72': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '70': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '63': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '59': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '36': 2
+[2026-04-19 00:59:20] INFO     - Total players processed for team '55': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '47': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '44': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '41': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '40': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '38': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '34': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '9': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '8': 1
+[2026-04-19 00:59:20] INFO     - Total players processed for team '7': 1
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Pausing 10s before bowler updates.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 1
+[2026-04-19 00:59:20] INFO     - Processing bowler of 229 : 'Shivam Dube' | 2 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Shivam Dube in Bowler at row 5
+[2026-04-19 00:59:20] INFO     - No update needed for Shivam Dube in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Sanju Samson as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Sai Sudharsan as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 2
+[2026-04-19 00:59:20] INFO     - Processing bowler of 55 : 'Mohsin Khan' | 15 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Mohsin Khan in Bowler at row 8
+[2026-04-19 00:59:20] INFO     - No update needed for Mohsin Khan in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Tilak Varma as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Quinton de Kock as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 3
+[2026-04-19 00:59:20] INFO     - Processing bowler of 38 : 'Jasprit Bumrah' | 38 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Jasprit Bumrah in Bowler at row 11
+[2026-04-19 00:59:20] INFO     - No update needed for Jasprit Bumrah in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Harpreet Brar as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 4
+[2026-04-19 00:59:20] INFO     - Processing bowler of 101 : 'Yuzvendra Chahal' | 19 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Yuzvendra Chahal in Bowler at row 13
+[2026-04-19 00:59:20] INFO     - No update needed for Yuzvendra Chahal in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 5
+[2026-04-19 00:59:20] INFO     - Processing bowler of 157 : 'Romario Shepherd' | 8 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Romario Shepherd in Bowler at row 14
+[2026-04-19 00:59:20] INFO     - No update needed for Romario Shepherd in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Vaibhav Sooryavanshi as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 6
+[2026-04-19 00:59:20] INFO     - Processing bowler of 285 : 'Ravi Bishnoi' | 28 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Ravi Bishnoi in Bowler at row 16
+[2026-04-19 00:59:20] INFO     - No update needed for Ravi Bishnoi in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 7
+[2026-04-19 00:59:20] INFO     - Processing bowler of 303 : 'Abhishek Sharma' | 2 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Abhishek Sharma in Bowler at row 17
+[2026-04-19 00:59:20] INFO     - No update needed for Abhishek Sharma in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Ishan Kishan as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Pat Cummins as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Rasikh Salam as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Matheesha Pathirana as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Nathan Ellis as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Yudhvir Singh as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Ayush Mhatre as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping MS Dhoni as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Mitchell Starc as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Glenn Phillips as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 8
+[2026-04-19 00:59:20] INFO     - Processing bowler of 182 : 'Sunil Narine' | 48 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Sunil Narine in Bowler at row 28
+[2026-04-19 00:59:20] INFO     - No update needed for Sunil Narine in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Ajinkya Rahane as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Ayush Badoni as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 9
+[2026-04-19 00:59:20] INFO     - Processing bowler of 180 : 'Hardik Pandya' | 20 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Hardik Pandya in Bowler at row 31
+[2026-04-19 00:59:20] INFO     - No update needed for Hardik Pandya in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Suryakumar Yadav as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Rohit Sharma as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Priyansh Arya as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Phil Salt as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 10
+[2026-04-19 00:59:20] INFO     - Processing bowler of 325 : 'Bhuvneshwar Kumar' | 51 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Bhuvneshwar Kumar in Bowler at row 36
+[2026-04-19 00:59:20] INFO     - No update needed for Bhuvneshwar Kumar in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 11
+[2026-04-19 00:59:20] INFO     - Processing bowler of 103 : 'Josh Hazlewood' | 29 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Josh Hazlewood in Bowler at row 37
+[2026-04-19 00:59:20] INFO     - No update needed for Josh Hazlewood in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Shimron Hetmyer as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 12
+[2026-04-19 00:59:20] INFO     - Processing bowler of 163 : 'Sandeep Sharma' | 29 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Sandeep Sharma in Bowler at row 39
+[2026-04-19 00:59:20] INFO     - No update needed for Sandeep Sharma in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 13
+[2026-04-19 00:59:20] INFO     - Processing bowler of 130 : 'Marco Jansen' | 32 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Marco Jansen in Bowler at row 40
+[2026-04-19 00:59:20] INFO     - No update needed for Marco Jansen in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Prashant Veer as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Ruturaj Gaikwad as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 14
+[2026-04-19 00:59:20] INFO     - Processing bowler of 201 : 'Axar Patel' | 31 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Axar Patel in Bowler at row 43
+[2026-04-19 00:59:20] INFO     - No update needed for Axar Patel in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Abishek Porel as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping KL Rahul as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 15
+[2026-04-19 00:59:20] INFO     - Processing bowler of 221 : 'Rashid Khan' | 43 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Rashid Khan in Bowler at row 46
+[2026-04-19 00:59:20] INFO     - No update needed for Rashid Khan in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 16
+[2026-04-19 00:59:20] INFO     - Processing bowler of 240 : 'Cameron Green' | 7 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Cameron Green in Bowler at row 47
+[2026-04-19 00:59:20] INFO     - No update needed for Cameron Green in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 17
+[2026-04-19 00:59:20] INFO     - Processing bowler of 70 : 'Varun Chakaravarthy' | 17 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Varun Chakaravarthy in Bowler at row 48
+[2026-04-19 00:59:20] INFO     - No update needed for Varun Chakaravarthy in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 18
+[2026-04-19 00:59:20] INFO     - Processing bowler of 99 : 'Digvesh Singh' | 24 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Digvesh Singh in Bowler at row 49
+[2026-04-19 00:59:20] INFO     - No update needed for Digvesh Singh in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Rishabh Pant as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 19
+[2026-04-19 00:59:20] INFO     - Processing bowler of 175 : 'Arshdeep Singh' | 43 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Arshdeep Singh in Bowler at row 51
+[2026-04-19 00:59:20] INFO     - No update needed for Arshdeep Singh in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 20
+[2026-04-19 00:59:20] INFO     - Processing bowler of 247 : 'Krunal Pandya' | 37 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Krunal Pandya in Bowler at row 52
+[2026-04-19 00:59:20] INFO     - No update needed for Krunal Pandya in Bowler as points are unchanged.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Rajat Patidar as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Yashasvi Jaiswal as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - 
+ Skipping Travis Head as points is zero.
+[2026-04-19 00:59:20] DEBUG    - ===============================================================
+[2026-04-19 00:59:20] INFO     - Processing count= 21
+[2026-04-19 00:59:20] INFO     - Processing bowler of 353 : 'Nitish Kumar Reddy' | 24 dot balls
+[2026-04-19 00:59:20] DEBUG    - Match found for Nitish Kumar Reddy in Bowler at row 56
+[2026-04-19 00:59:21] INFO     - Data updated successfully for Nitish Kumar Reddy in Bowler - 24 Dot Balls!
+[2026-04-19 00:59:21] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - 
+ Skipping Naman Dhir as points is zero.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - 
+ Skipping Finn Allen as points is zero.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - 
+ Skipping Rahul Tewatia as points is zero.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - 
+ Skipping Jason Holder as points is zero.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - 
+ Skipping Dewald Brevis as points is zero.
+[2026-04-19 00:59:25] DEBUG    - ===============================================================
+[2026-04-19 00:59:25] INFO     - Processing count= 22
+[2026-04-19 00:59:25] INFO     - Processing bowler of 166 : 'Noor Ahmad' | 35 dot balls
+[2026-04-19 00:59:25] DEBUG    - Match found for Noor Ahmad in Bowler at row 62
+[2026-04-19 00:59:26] INFO     - Data updated successfully for Noor Ahmad in Bowler - 35 Dot Balls!
+[2026-04-19 00:59:26] DEBUG    - Sleeping 4s before next update.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 23
+[2026-04-19 00:59:30] INFO     - Processing bowler of 7 : 'Auqib Nabi' | 6 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Auqib Nabi in Bowler at row 63
+[2026-04-19 00:59:30] INFO     - No update needed for Auqib Nabi in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Jos Buttler as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 24
+[2026-04-19 00:59:30] INFO     - Processing bowler of 313 : 'Prasidh Krishna' | 48 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Prasidh Krishna in Bowler at row 65
+[2026-04-19 00:59:30] INFO     - No update needed for Prasidh Krishna in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 25
+[2026-04-19 00:59:30] INFO     - Processing bowler of 200 : 'Vaibhav Arora' | 43 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Vaibhav Arora in Bowler at row 66
+[2026-04-19 00:59:30] INFO     - No update needed for Vaibhav Arora in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 26
+[2026-04-19 00:59:30] INFO     - Processing bowler of 206 : 'Aiden Markram' | 4 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Aiden Markram in Bowler at row 67
+[2026-04-19 00:59:30] INFO     - No update needed for Aiden Markram in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Will Jacks as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Nehal Wadhera as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Shreyas Iyer as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Devdutt Padikkal as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Virat Kohli as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 27
+[2026-04-19 00:59:30] INFO     - Processing bowler of 144 : 'Riyan Parag' | 4 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Riyan Parag in Bowler at row 73
+[2026-04-19 00:59:30] INFO     - No update needed for Riyan Parag in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 28
+[2026-04-19 00:59:30] INFO     - Processing bowler of 9 : 'Harshal Patel' | 11 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Harshal Patel in Bowler at row 74
+[2026-04-19 00:59:30] INFO     - No update needed for Harshal Patel in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Heinrich Klaasen as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Nitish Rana as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 29
+[2026-04-19 00:59:30] INFO     - Processing bowler of 40 : 'Trent Boult' | 12 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Trent Boult in Bowler at row 77
+[2026-04-19 00:59:30] INFO     - No update needed for Trent Boult in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Venkatesh Iyer as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Yash Dayal as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 30
+[2026-04-19 00:59:30] INFO     - Processing bowler of 159 : 'Shardul Thakur' | 17 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Shardul Thakur in Bowler at row 80
+[2026-04-19 00:59:30] INFO     - No update needed for Shardul Thakur in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 31
+[2026-04-19 00:59:30] INFO     - Processing bowler of 8 : 'Rahul Chahar' | 4 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Rahul Chahar in Bowler at row 81
+[2026-04-19 00:59:30] INFO     - No update needed for Rahul Chahar in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 32
+[2026-04-19 00:59:30] INFO     - Processing bowler of 70 : 'Khaleel Ahmed' | 43 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Khaleel Ahmed in Bowler at row 82
+[2026-04-19 00:59:30] INFO     - No update needed for Khaleel Ahmed in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Tristan Stubbs as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 33
+[2026-04-19 00:59:30] INFO     - Processing bowler of 172 : 'Kuldeep Yadav' | 25 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Kuldeep Yadav in Bowler at row 84
+[2026-04-19 00:59:30] INFO     - No update needed for Kuldeep Yadav in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Shubman Gill as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 34
+[2026-04-19 00:59:30] INFO     - Processing bowler of 167 : 'Mohammed Siraj' | 52 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Mohammed Siraj in Bowler at row 86
+[2026-04-19 00:59:30] INFO     - No update needed for Mohammed Siraj in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Angkrish Raghuvanshi as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Mitchell Marsh as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Nicholas Pooran as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 35
+[2026-04-19 00:59:30] INFO     - Processing bowler of 47 : 'Marcus Stoinis' | 1 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Marcus Stoinis in Bowler at row 90
+[2026-04-19 00:59:30] INFO     - No update needed for Marcus Stoinis in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Prabhsimran Singh as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 36
+[2026-04-19 00:59:30] INFO     - Processing bowler of 144 : 'Shashank Singh' | 10 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Shashank Singh in Bowler at row 92
+[2026-04-19 00:59:30] INFO     - No update needed for Shashank Singh in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Jitesh Sharma as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 37
+[2026-04-19 00:59:30] INFO     - Processing bowler of 244 : 'Jofra Archer' | 49 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Jofra Archer in Bowler at row 94
+[2026-04-19 00:59:30] INFO     - No update needed for Jofra Archer in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 38
+[2026-04-19 00:59:30] INFO     - Processing bowler of 202 : 'Ravindra Jadeja' | 14 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Ravindra Jadeja in Bowler at row 95
+[2026-04-19 00:59:30] INFO     - No update needed for Ravindra Jadeja in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 39
+[2026-04-19 00:59:30] INFO     - Processing bowler of 151 : 'Mohammad Shami' | 58 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Mohammad Shami in Bowler at row 96
+[2026-04-19 00:59:30] INFO     - No update needed for Mohammad Shami in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 40
+[2026-04-19 00:59:30] INFO     - Processing bowler of 231 : 'Kagiso Rabada' | 47 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Kagiso Rabada in Bowler at row 97
+[2026-04-19 00:59:30] INFO     - No update needed for Kagiso Rabada in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Rinku Singh as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Kartik Sharma as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Ashutosh Sharma as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 41
+[2026-04-19 00:59:30] INFO     - Processing bowler of 36 : 'Corbin Bosch' | 6 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Corbin Bosch in Bowler at row 101
+[2026-04-19 00:59:30] INFO     - No update needed for Corbin Bosch in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 42
+[2026-04-19 00:59:30] INFO     - Processing bowler of 277 : 'Tim David' | 1 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Tim David in Bowler at row 102
+[2026-04-19 00:59:30] INFO     - No update needed for Tim David in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Cooper Connolly as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Liam Livingstone as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping Vijaykumar Vyshak as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - Processing count= 43
+[2026-04-19 00:59:30] INFO     - Processing bowler of 118 : 'Suyash Sharma' | 31 dot balls
+[2026-04-19 00:59:30] DEBUG    - Match found for Suyash Sharma in Bowler at row 106
+[2026-04-19 00:59:30] INFO     - No update needed for Suyash Sharma in Bowler as points are unchanged.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] INFO     - 
+ Skipping David Miller as points is zero.
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rajat Patidar | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Virat Kohli | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Shubman Gill | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Jos Buttler | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Phil Salt | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Prabhsimran Singh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Bhuvneshwar Kumar | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Vaibhav Sooryavanshi | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Shreyas Iyer | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Prasidh Krishna | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Angkrish Raghuvanshi | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Devdutt Padikkal | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Yashasvi Jaiswal | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Ravi Bishnoi | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Tim David | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: KL Rahul | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Tristan Stubbs | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Krunal Pandya | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Jofra Archer | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Cameron Green | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Kagiso Rabada | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Ajinkya Rahane | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rashid Khan | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Cooper Connolly | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Sai Sudharsan | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Aiden Markram | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rohit Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Ravindra Jadeja | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Axar Patel | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Vaibhav Arora | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rishabh Pant | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Priyansh Arya | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Sunil Narine | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: David Miller | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Hardik Pandya | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Naman Dhir | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Arshdeep Singh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Kuldeep Yadav | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Ayush Badoni | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rasikh Salam | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Mitchell Marsh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Quinton de Kock | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Suryakumar Yadav | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Mohammed Siraj | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rinku Singh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Sandeep Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Shardul Thakur | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Romario Shepherd | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Mohammad Shami | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Vijaykumar Vyshak | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Glenn Phillips | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Shashank Singh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Riyan Parag | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Jitesh Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Finn Allen | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Marco Jansen | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Tilak Varma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Suyash Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Josh Hazlewood | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Yuzvendra Chahal | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Digvesh Singh | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Shimron Hetmyer | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rahul Tewatia | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Nicholas Pooran | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Prashant Veer | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Varun Chakaravarthy | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Khaleel Ahmed | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Nehal Wadhera | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Nitish Rana | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Mohsin Khan | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Marcus Stoinis | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Venkatesh Iyer | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Kartik Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Trent Boult | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Jasprit Bumrah | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Corbin Bosch | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Ashutosh Sharma | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Harshal Patel | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Rahul Chahar | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Auqib Nabi | Reason: Points unchanged
+[2026-04-19 00:59:30] WARNING  - Player not updated: Mitchell Starc | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Pat Cummins | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Matheesha Pathirana | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Will Jacks | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Harpreet Brar | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Abishek Porel | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: MS Dhoni | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Jason Holder | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Yash Dayal | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Yudhvir Singh | Reason: Points is zero
+[2026-04-19 00:59:30] WARNING  - Player not updated: Nathan Ellis | Reason: Points is zero
+[2026-04-19 00:59:30] DEBUG    - ===============================================================
+[2026-04-19 00:59:32] INFO     - Worksheets opened: ['Home', 'Data']
+[2026-04-19 00:59:33] INFO     - Points Gained Today fetched: {'HW': 0, 'MC': 51, 'OL': 76, 'AS': 144, 'PA': 139}
+[2026-04-19 00:59:33] INFO     - Writing to column 8 (19/04)
+[2026-04-19 00:59:34] DEBUG    -   HW → H2 = 0
+[2026-04-19 00:59:34] DEBUG    -   MC → H3 = 51
+[2026-04-19 00:59:34] DEBUG    -   OL → H4 = 76
+[2026-04-19 00:59:34] DEBUG    -   AS → H5 = 144
+[2026-04-19 00:59:34] DEBUG    -   PA → H6 = 139
+[2026-04-19 00:59:34] INFO     - Successfully updated 5 team(s) for 19/04.
+[2026-04-19 00:59:34] INFO     - TOP 12 points fetched: {'PA': 3172, 'HW': 2971, 'OL': 2880, 'MC': 2705, 'AS': 2697}
+[2026-04-19 00:59:35] INFO     - Column mapping: {'HW': 2, 'MC': 3, 'OL': 4, 'AS': 5, 'PA': 6}
+[2026-04-19 00:59:35] INFO     - Today '19/04' found at row 31
+[2026-04-19 00:59:35] DEBUG    -   PA → F31 = 3172
+[2026-04-19 00:59:35] DEBUG    -   HW → B31 = 2971
+[2026-04-19 00:59:35] DEBUG    -   OL → D31 = 2880
+[2026-04-19 00:59:35] DEBUG    -   MC → C31 = 2705
+[2026-04-19 00:59:35] DEBUG    -   AS → E31 = 2697
+[2026-04-19 00:59:36] INFO     - Successfully updated 5 team(s) for '19/04' at row 31.
+[2026-04-19 00:59:37] INFO     - ═════════════════════ All updates completed ═════════════════════

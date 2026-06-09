@@ -1,0 +1,73 @@
+[2026-04-20 23:11:25] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-20 23:11:26] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-20 23:11:26] INFO     - Google Sheets authentication successful.
+[2026-04-20 23:11:32] INFO     - Worksheets opened: ['Points', 'Home', 'Data']
+[2026-04-20 23:11:39] INFO     - Updating previous points for all players before processing.
+[2026-04-20 23:11:39] DEBUG    - ======================================================
+[2026-04-20 23:11:43] DEBUG    - Updated previous points for '2' at row 3: 6 → 8
+[2026-04-20 23:11:43] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:11:48] DEBUG    - Updated previous points for 'Mohsin Khan' at row 8: 70 → 106
+[2026-04-20 23:11:48] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:11:53] DEBUG    - Updated previous points for 'Yuzvendra Chahal' at row 13: 120 → 154
+[2026-04-20 23:11:53] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:11:57] DEBUG    - Updated previous points for 'Vaibhav Sooryavanshi' at row 15: 320 → 388
+[2026-04-20 23:11:57] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:02] DEBUG    - Updated previous points for 'Ravi Bishnoi' at row 16: 313 → 345
+[2026-04-20 23:12:02] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:06] DEBUG    - Updated previous points for 'Sunil Narine' at row 28: 230 → 307
+[2026-04-20 23:12:06] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:11] DEBUG    - Updated previous points for 'Ajinkya Rahane' at row 29: 230 → 240
+[2026-04-20 23:12:11] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:16] DEBUG    - Updated previous points for 'Ayush Badoni' at row 30: 170 → 224
+[2026-04-20 23:12:16] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:20] DEBUG    - Updated previous points for 'Priyansh Arya' at row 34: 190 → 323
+[2026-04-20 23:12:20] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:25] DEBUG    - Updated previous points for 'Shimron Hetmyer' at row 38: 93 → 112
+[2026-04-20 23:12:25] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:30] DEBUG    - Updated previous points for 'Marco Jansen' at row 40: 162 → 223
+[2026-04-20 23:12:30] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:34] DEBUG    - Updated previous points for 'Cameron Green' at row 47: 247 → 297
+[2026-04-20 23:12:34] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:39] DEBUG    - Updated previous points for 'Varun Chakaravarthy' at row 48: 87 → 197
+[2026-04-20 23:12:39] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:44] DEBUG    - Updated previous points for 'Rishabh Pant' at row 50: 197 → 263
+[2026-04-20 23:12:44] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:48] DEBUG    - Updated previous points for 'Arshdeep Singh' at row 51: 218 → 253
+[2026-04-20 23:12:48] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:53] DEBUG    - Updated previous points for 'Yashasvi Jaiswal' at row 54: 289 → 346
+[2026-04-20 23:12:53] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:12:57] DEBUG    - Updated previous points for 'Vaibhav Arora' at row 66: 243 → 259
+[2026-04-20 23:12:57] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:02] DEBUG    - Updated previous points for 'Aiden Markram' at row 67: 210 → 283
+[2026-04-20 23:13:02] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:06] DEBUG    - Updated previous points for 'Nehal Wadhera' at row 69: 63 → 83
+[2026-04-20 23:13:06] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:11] DEBUG    - Updated previous points for 'Shreyas Iyer' at row 70: 319 → 336
+[2026-04-20 23:13:11] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:15] DEBUG    - Updated previous points for 'Riyan Parag' at row 73: 148 → 166
+[2026-04-20 23:13:15] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:20] DEBUG    - Updated previous points for 'Angkrish Raghuvanshi' at row 87: 294 → 313
+[2026-04-20 23:13:20] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:24] DEBUG    - Updated previous points for 'Mitchell Marsh' at row 88: 168 → 241
+[2026-04-20 23:13:24] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:29] DEBUG    - Updated previous points for 'Nicholas Pooran' at row 89: 77 → 111
+[2026-04-20 23:13:29] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:33] DEBUG    - Updated previous points for 'Marcus Stoinis' at row 90: 48 → 101
+[2026-04-20 23:13:33] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:38] DEBUG    - Updated previous points for 'Prabhsimran Singh' at row 91: 345 → 355
+[2026-04-20 23:13:38] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:42] DEBUG    - Updated previous points for 'Shashank Singh' at row 92: 154 → 180
+[2026-04-20 23:13:42] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:47] DEBUG    - Updated previous points for 'Jofra Archer' at row 94: 293 → 348
+[2026-04-20 23:13:47] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:51] DEBUG    - Updated previous points for 'Ravindra Jadeja' at row 95: 216 → 304
+[2026-04-20 23:13:51] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:13:56] DEBUG    - Updated previous points for 'Mohammad Shami' at row 96: 209 → 248
+[2026-04-20 23:13:56] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:14:00] DEBUG    - Updated previous points for 'Rinku Singh' at row 98: 163 → 241
+[2026-04-20 23:14:00] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:14:05] DEBUG    - Updated previous points for 'Cooper Connolly' at row 103: 221 → 348
+[2026-04-20 23:14:05] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:14:09] DEBUG    - Updated previous points for 'Vijaykumar Vyshak' at row 105: 149 → 178
+[2026-04-20 23:14:09] DEBUG    - Sleeping 4s after updating previous points.
+[2026-04-20 23:14:09] DEBUG    - ======================================================

@@ -1,0 +1,29 @@
+[2026-04-15 23:17:09] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-15 23:17:20] INFO     - Teams loaded: T1='RCB', T2='LSG'
+[2026-04-15 23:17:20] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-15 23:17:20] INFO     - Google Sheets authentication successful.
+[2026-04-15 23:17:25] INFO     - Worksheets opened: ['RCB', 'LSG', 'CSK', 'KKR', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-15 23:17:28] DEBUG    - ===============================================================
+[2026-04-15 23:17:28] INFO     - Pausing 10s before bowler updates.
+[2026-04-15 23:17:28] DEBUG    - ===============================================================
+[2026-04-15 23:17:28] DEBUG    - ===============================================================
+[2026-04-15 23:17:28] DEBUG    - ===============================================================
+[2026-04-15 23:17:32] INFO     - Worksheets opened: ['RCB', 'LSG', 'CSK', 'KKR', 'Extra', 'Bowler', 'Home', 'Data']
+[2026-04-15 23:17:32] INFO     - Points Gained Today fetched: {'HW': 129, 'MC': 221, 'OL': 134, 'AS': 21, 'PA': 123}
+[2026-04-15 23:17:33] INFO     - Writing to column 3 (15/04)
+[2026-04-15 23:17:33] DEBUG    -   HW → C2 = 129
+[2026-04-15 23:17:33] DEBUG    -   MC → C3 = 221
+[2026-04-15 23:17:33] DEBUG    -   OL → C4 = 134
+[2026-04-15 23:17:33] DEBUG    -   AS → C5 = 21
+[2026-04-15 23:17:33] DEBUG    -   PA → C6 = 123
+[2026-04-15 23:17:34] INFO     - Successfully updated 5 team(s) for 15/04.
+[2026-04-15 23:17:34] INFO     - TOP 12 points fetched: {'PA': 2713, 'AS': 2382, 'HW': 2337, 'OL': 2282, 'MC': 2318}
+[2026-04-15 23:17:34] INFO     - Column mapping: {'HW': 2, 'MC': 3, 'OL': 4, 'AS': 5, 'PA': 6}
+[2026-04-15 23:17:35] INFO     - Today '15/04' found at row 24
+[2026-04-15 23:17:35] DEBUG    -   PA → F24 = 2713
+[2026-04-15 23:17:35] DEBUG    -   AS → E24 = 2382
+[2026-04-15 23:17:35] DEBUG    -   HW → B24 = 2337
+[2026-04-15 23:17:35] DEBUG    -   OL → D24 = 2282
+[2026-04-15 23:17:35] DEBUG    -   MC → C24 = 2318
+[2026-04-15 23:17:35] INFO     - Successfully updated 5 team(s) for '15/04' at row 24.
+[2026-04-15 23:17:36] INFO     - ═════════════════════ All updates completed ═════════════════════

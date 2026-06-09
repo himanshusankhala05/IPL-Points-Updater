@@ -1,0 +1,50 @@
+[2026-05-27 00:09:28] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-05-27 00:09:28] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-05-27 00:09:28] INFO     - Google Sheets authentication successful.
+[2026-05-27 00:09:33] INFO     - Worksheets opened: ['Points', 'Home', 'Data']
+[2026-05-27 00:09:37] INFO     - Updating previous points for all players before processing.
+[2026-05-27 00:09:37] DEBUG    - ======================================================
+[2026-05-27 00:09:40] DEBUG    - Updated previous points for 'Sai Sudharsan' at row 7: 956 → 985
+[2026-05-27 00:09:40] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:09:44] DEBUG    - Updated previous points for 'Romario Shepherd' at row 14: 381 → 387
+[2026-05-27 00:09:44] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:09:47] DEBUG    - Updated previous points for 'Rasikh Salam' at row 20: 437 → 511
+[2026-05-27 00:09:47] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:09:51] DEBUG    - Updated previous points for 'Bhuvneshwar Kumar' at row 36: 910 → 986
+[2026-05-27 00:09:51] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:09:54] DEBUG    - Updated previous points for 'Josh Hazlewood' at row 37: 508 → 574
+[2026-05-27 00:09:54] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:09:58] DEBUG    - Updated previous points for 'Rashid Khan' at row 46: 775 → 793
+[2026-05-27 00:09:58] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:01] DEBUG    - Updated previous points for 'Krunal Pandya' at row 52: 663 → 795
+[2026-05-27 00:10:01] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:05] DEBUG    - Updated previous points for 'Rajat Patidar' at row 53: 665 → 807
+[2026-05-27 00:10:05] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:08] DEBUG    - Updated previous points for 'Rahul Tewatia' at row 59: 183 → 283
+[2026-05-27 00:10:08] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:12] DEBUG    - Updated previous points for 'Jason Holder' at row 60: 617 → 682
+[2026-05-27 00:10:12] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:15] DEBUG    - Updated previous points for 'Jos Buttler' at row 64: 921 → 976
+[2026-05-27 00:10:15] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:19] DEBUG    - Updated previous points for 'Prasidh Krishna' at row 65: 472 → 514
+[2026-05-27 00:10:19] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:22] DEBUG    - Updated previous points for 'Devdutt Padikkal' at row 71: 775 → 822
+[2026-05-27 00:10:22] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:26] DEBUG    - Updated previous points for 'Virat Kohli' at row 72: 880 → 952
+[2026-05-27 00:10:26] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:29] DEBUG    - Updated previous points for 'Venkatesh Iyer' at row 78: 250 → 278
+[2026-05-27 00:10:29] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:33] DEBUG    - Updated previous points for 'Shubman Gill' at row 85: 989 → 1003
+[2026-05-27 00:10:33] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:36] DEBUG    - Updated previous points for 'Mohammed Siraj' at row 86: 691 → 699
+[2026-05-27 00:10:36] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:39] DEBUG    - Updated previous points for 'Jitesh Sharma' at row 93: 291 → 321
+[2026-05-27 00:10:39] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:43] DEBUG    - Updated previous points for 'Kagiso Rabada' at row 97: 921 → 988
+[2026-05-27 00:10:43] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:46] DEBUG    - Updated previous points for 'Tim David' at row 102: 459 → 475
+[2026-05-27 00:10:46] DEBUG    - Sleeping 3s after updating previous points.
+[2026-05-27 00:10:46] DEBUG    - ======================================================
+[2026-05-27 00:10:58] DEBUG    - ===============================================================
+[2026-05-27 00:10:58] INFO     - Pausing 5s before before next steps.
+[2026-05-27 00:10:58] DEBUG    - ===============================================================

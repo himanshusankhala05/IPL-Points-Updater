@@ -1,0 +1,4 @@
+[2026-04-28 22:58:13] INFO     - ═════════════════════ Process started ═════════════════════
+[2026-04-28 22:58:14] INFO     - Excel loaded: 103 players, 103 bowlers from 'C:\Users\himan\Documents\UiPath\CrickInfo\Data\IPLPointsData.xlsx'
+[2026-04-28 22:58:14] INFO     - Google Sheets authentication successful.
+[2026-04-28 22:58:19] INFO     - Worksheets opened: ['Points', 'Home', 'Data']
